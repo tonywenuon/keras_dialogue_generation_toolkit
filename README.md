@@ -1,6 +1,6 @@
 # keras_dialogue_generation_toolkit
 
-##Introduction
+## Introduction
 
 This is a Keras framework for dialogue generation. It includes some basic generative models:
 
@@ -12,7 +12,7 @@ This is a Keras framework for dialogue generation. It includes some basic genera
 * Universal Transformer ([Universal transformers](https://arxiv.org/pdf/1807.03819.pdf))
 * Transformer with Expanded Decoder ([Enhancing Conversational Dialogue Models with Grounded Knowledge]())
 
-##Structure
+## Structure
 1. **commonly_used_code:** 
 This folder contains commonly used code for all of the sub-tasks. We can reuse the code in this folder.
 2. **configuration:** 
@@ -25,7 +25,7 @@ This folder contains all data. For this framework, it has a specific requirement
 This folder contains data processing code. All process about the data processing should be put into this folder. The final data should be generated to the data folder.
 6. **example:** 
 For all of the models listed above, the training entrance is in this folder. You can get start from this folder.
-7. **model:**
+7. **models:**
 The core model files are in this folder. You can get the code of each model.
 
 ## Reference and Acknowledgement:
