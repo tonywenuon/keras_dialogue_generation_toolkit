@@ -1,0 +1,100 @@
+0	blue is one of the three primary colours of pigments in painting and traditional colour theory , as well as in the rgb colour model .	blue is my favorite primary color .
+1	blue is always nice . i like royal blue .	i once road on the royal blue train from new york to d . c
+2	oh that sounds really nice . i bet there was a lot of scenery and blue skies .	yes , speaking of blue skies , have you seen the 1946 movie staring bing crosby ?
+4	hi buddy , what you think about cinematography	cinematography , is a type of motion picture , captured electronically by means of an image
+5	yes buddy , images captured with an electronic image sensor , produces an electrical charge.the word " cinematography " is based on the greek words meaning movement , motion .	it works by lens used to repeatedly focus the light reflected from objects into real images on the light sensitive surface .
+6	muybridge sequence of a horse galloping in the 1830s , moving images were produced on revolving drums and disks	cinematography is also a type of photography which is the science , art , application and practice of creating durable images by recording light or other electromagnetic radiation , either electronically by means of an image sensor .
+7	yes , cinematography finds uses in many fields of science and business as well as for entertainment purposes	some however prefer using digital camera or digicam , which is a camera that captures photograph .
+8	yes now digital camera is trendy	prior to the advent of digital technology , photographs were made by exposing light sensitive photographic film and paper , which was processed in liquid chemical .
+9	a genius is a person who displays exceptional intellectual ability , creative productivity , universality in genres or originality , typically to a degree that is associated with the achievement of new advances in a domain of knowledge .	a genius is a person who displays exceptional intellectual ability .
+10	what is an iq of a genius ?	universality in genres or originality typically to a degree that is associated with achievements
+11	is that a trait that you can tell someone has early on in their life ?	there is no scientifically precise definition of genius
+12	are there organizations or anything that you could belong to if you were a genius ?	the world began to acquire its secondary meaning of inspiration , talent
+14	i just got a husky puppy	it sounds cute ! huskies are known amongst sled dogs for their fast pulling style .
+15	i guess in the north they are working dogs huh ?	sled dogs , including huskies , are used for transportation in arctic areas .
+16	that is so cool and probably helpful but mine is just a pet	that 's not uncommon ! there are rescue groups that specialize in finding homes for retired sled dogs .
+17	i bet they retire them at a certain age then they need a home huh	yes . huskies got their name from the word referring to eskimos .
+18	forgetting or disremembering is the apparent loss or modification of information already encoded and stored in an individual 's long term memory .	forgetting is the process of losing information already stored in the memory
+19	yea forgetting and memory loss is one of lifes most painful things	its a gradual process where one is unable to call up the older memories
+20	yep they just fade away and it can really get to you after a while	memory problems are one of the most common complaints of older adults
+22	i think budweiser taste terrible . have you ever had it ?	yes , and i love it ! it 's a filtered beer , and it comes in either draft or packaged forms
+23	yeah ? from my understanding they are called " bud " over in europe because they have been in a trademark dispute with another beer company .	yes , that 's true because the trademark name of budweiser is own by the czech beer maker , budweiser budvar
+24	ah i thought so . i 'm not a big fan of theirs because i feel like the beer is really weak and watered down .	compared to canadian beer , i guess it is ! it is a pale lager though , and is produced by anheuser busch
+25	ah my favorite kind of beer are the stouts . like a nice milk or chocolate stout with a much larger alcohol content .	that sounds yummy ! interestingly , budweiser is made with hops and barley malt , with up to 30 rice as well
+26	oh i did n't know they used rice in their beer . i figured that was all barley , wheat and hops .	yes , and it is a bohemian style lager developed by adolphus busch and his friend carl conrad
+27	who founded coors brewing company ?	in 1873 adolph coors and jacob schueler founded the brewery
+28	nice , what drinks do they produce ?	i would say one of there most popular items is " coors light " which was first produced in 1978 , so after 105 years of being founded . but they sell all kinds of beer .
+29	what share of the market for beer did they capture ?	i do n't know the exact amount but i do know that the company is a regional division of the world 's third largest brewing company , the molson coors brewing company .
+30	wow , that a huge one , thanks for enlightening me about coors brewing company	oh no problem , the molson coors brewing co that was formed in 2005 is now the coors brewing company .
+31	i love italian cuisine	oh yes ! it is the best . it 's really changed over the years but it still has good roots .
+32	what is your favorite italian dish ?	i really enjoy chicken parmigiana . what about you ?
+33	i love chicken parmigiana as well , but i think my ultimate favorite is beef lasagna ... extra cheese please !	chicken with sauce and mozzarella ... be still my heart !
+34	truthfully , anything with cheese is the best	especially cheddar cheese ! it 's the second most popular cheese in the us !
+35	my favorite color is purple , do you know much about that color ?	i do n't know much about the color except that it is an intermediate color between blue and red . i do like it though .
+36	oh that 's cool , do you know if purple had any historical uses ?	i would say that it was useful in draping the past royalty of europe and other countries , as well as many magician 's ensembles .
+37	wow that 's really neat . do you know what wavelengths of light purple occurs at ?	i 'm not sure exactly what wavelengths it occurs at . i do know that purple is similar to violet but unlike that spectral color it is a composite color .
+38	what exactly is a composite color , can you explain that a bit more ?	composite means that purple is a simple color made by combining red and blue . violet is different because it 's spectral .
+39	an orc ( also spelled as ork ) is a fictional humanoid creature that is part of a fantasy race akin to goblins .	orcs are cool fictional humanoid beings
+40	yeah i 've seen them in a lot of things like magic and dnd .	while the concept remains the same it draws on many preexisting mythology
+41	that 's really interesting ! orcs are some of my favorite fictional characters honestly .	orcs were actually created by j r r tolkein
+43	the rolling stones are an english rock band formed in london , england in 1962 .	i love the rolling stones . do you ? they were formed in 1962 .
+44	i love them ! who was in the band at the start ?	the first lineup was brian jones , mick , keith , bill wyman , charlie watts and ian steward .
+45	was mick ever replaced ?	i do n't believe so . he 's still with the band .
+46	nice ! i love all their songs . ruby tuesday is a favorite .	that is a great song . one of my favs . wyman left in 1993 . then darryl jones replaced as touring bassist .
+48	new york city has always fascinated me . have you ever been there ?	i have n't , but i do n't know if i do want to go or not lol . it 's the most populated city in america so i do n't know if i 'm up to so many people !
+49	what is the city population ?	there is around 9 million people in new york , and they are also the most densely populated of a major city , due to the size of the area .
+50	wow ! i did n't realize it was that much ! what is fun to do in the city ?	well , new york is a very powerful city , known for their culture , financial and media , so they have a lot of influence on commerce , research , entertainment , technology , education , politics and sports around the world . so plenty , plenty to do !
+51	what would you recommend since i would n't even know where to start ? i heard that broadway is big there .	manhattan is known as " the city " by the locals , and so there is so much there . broadway is wonderful in new york , there are also islands you could visit !
+52	islands ? is n't new york one big island ?	it is , and they have smaller ones around new york . but , i would go visit brooklyn , queens , the bronx , manhattan and staten island . go see it all !
+53	i am a big fan of football . i did n't watch it as much last season , but i am still a big fan !	i 'm not really a big fan , but i have n't watched it too much . i know it 's kicking a ball and scoring a goal on a field though lol !
+54	ha . yes the rules seem a little bit different compared to futbol .	yes , true , and i know ' football ' depends a large extent of the area that it is being played , into which form of football it is .
+55	if you do watch football , do you watch the nfl or do you watch ncaa college football ? or do you go to local high school games ?	i would usually watch nfl , and when my son played in school .
+56	do you keep up with the news of the nfl ? if so , what types of controversies surround the nfl now ?	i know the nfl has had a very complicated history in la .
+57	she was the founder and namesake of the chanel brand .	i learned that the founder of the chanel brand 's first name is coco . are you familiar with the brand ?
+58	yes i wear her fragrance chanel 5 for the last two decades	i also did not realize how far back the chanel brand goes . post wwi , coco along with paul poiret made popular a look for women that was more sporty and chic .
+59	yes coco chanel was a french fashion designer and a business woman who became an icon	its fascinating her rise in the fashion world . as a matter of fact , she is the only fashion designer to be listed in the time magazine top 100 .
+61	hi , do you like dogs ?	i do ! actually , my favourite is the basenji breed ! it is a hunting dog .
+62	oh , those are cool . i have seen them on the westminster dog show , but i 've never met one in person . i have a havanese .	wow , are you cuban ? i know that the havanese are the national dog of cuba !
+63	no , not cuban , but yes they are the national dog of cuba ! apparently all the havanese in the us are descended from a handful that came here from cuba during the revolution !	wow ! so amazing imagine , they were the first species to be domesticated !
+64	my kids comment sometimes on how funny it is that we have animals live with us and they are like part of the family . why dogs , and not , say , squirrels ? lol	exactly ! and imagine , they came from a breed of widely abundant terrestrial carnivore . how did we manage to domesticate them ?
+65	it 's a good question . and i wonder when it started happening ?	well some say 14 , 700 years and others have even argued 36,000 years ! blows my mind !
+66	stephen william hawking , ( born 8 january 1942 ) is an english theoretical physicist , cosmologist , author and director of research at the centre for theoretical cosmology within the university of cambridge .	stephen hawking is my favorite psysicist !
+67	stephen hawking , my goodness . i am pretty sure i heard his robot voice on that tv show " the big bang theory " . was n't he also a recurring cast member on " the simpsons " ?	yes ! but i 'm not sure that was actually him speaking . he was first to make a theory about cosmology .
+68	cosmology . i think carl sagan was a cosmologist as well . what do you think they did with stephen hawkings robot computer ? i mean , its not like it could be used by someone else . did they give it to goodwill or something ?	haha , i hope that did n't go to goodwill . he was ranked 25 in bbc 's poll of 100 greatest britons . probably in a museum
+70	historically , science fiction stories have had a grounding in actual science , but now this is only expected of hard science fiction .	science fiction used to be based on actual science , but now it is pretty much only hard science fiction that bases itself on real science .
+71	well , it still has some basis in actual science i assume . it is ' fictional ' ... but everything has a basis in truth in my opinion	do you read science fiction ? usually science fiction stays away from the supernatural , unlike the related genre of fantasy .
+72	i do . but a lot of what i read does have supernatural in it as well although in small amounts	science fiction is quite diverse , and its exact definition has n't yet been determined by scholars and those that love it .
+73	are there any particular examples of sci fi that really stand out ?	there are numerous films though none really stand out usually about things like extraterrestrial lifeforms , alien worlds , extrasensory perception and time travel
+75	iguana ( , ) is a genus of herbivorous lizards that are native to tropical areas of mexico , central america , south america , and the caribbean .	i love iguanas , i have a few as pets . do you like lizards at all ?
+76	yes , i like them . they are interesting.and prehistoric looking . i like turtles too .	i agree , they definitely have a prehistoric look to them . there are also over 6000 species spread across the world .
+77	do they have teeth and does their bite hurt if they bite you ?	my iguanas have teeth but they have never bitten me . i do n't think it would hurt terribly because mine are small . iguanas can vary in length though .
+79	cake is a form of sweet dessert that is typically baked .	cake is a form of sweet dessert it is also my favorite
+80	cake is so good but i dont eat much of it .	well in its oldest forms , cakes were modifications of breads ,
+81	i bet that was a long time ago ?	yeah if i recall typical cake ingredients are flour , sugar , eggs , butter or oil or margarine
+83	their long association with humans has led dogs to be uniquely attuned to human behavior and they are able to thrive on a starch rich diet that would be inadequate for other canid species .	i love dogs they are really your best friends they have been associated with us humans for many years ..
+84	same ! do you have any dogs ?	yes i have 2 i actually got mines from the best friend animal society which is a shelter that rescues dogs .
+85	oh that 's awesome . i have a corgi who is a year old . she 's very well behaved and easily trainable .	that is a dog similar to mines i have a welsh corgi it is a much smaller dog though originated from wales .
+86	yep mine is a pembroke welsh ! what is your other dog 's breed ?	my other dog is a english toy spaniel very small dog as well it 's breed is from the spaniel .
+88	i have always been interested in ballet but do n't know very much about it .	ballet came about from the italian renaissance around the 15th century , then caught on fire in russia and france .
+89	it has so many different terms . what language do they come from ?	most of the vocabulary is french . have you ever watched it ?
+90	i watched a movie one time with mikhail baryshnikov which i think is where my fascination with it started . are there other famous ballet dancers i should watch as well ?	there is a famous russian named rudolf nureyev , he is known as lord of the dance , he defected in 1961 .
+91	i know a famous ballet is the nutcracker . are there other ballets you would recommend ?	the nutcracker is the most popular ballet , i would also recommend swan lake as well . those would get your feet wet .
+92	oh , yes . i 've heard of swan lake . what is that about ?	it is about a princess who has been transformed into a swan by an evil sorcerer . it is based off some old russian folk tales .
+93	i love to travel ! i 'm actually taking a cruise in september . what about you ?	i went on a very cool cruise this past january . cruises are pleasure voyages and the voyage along with the amenities are all part of the experience . we traveled to mexico .
+94	oh cool ! what part of mexico ? i 've been to cancun , but that 's it .	our cruise was a walking dead cruise with one stop in cozumel . there are some cruises that " cruise to nowhere " and the ship just travels for a few days .
+95	that 's neat . have you ever wanted to travel to , say , italy or greece ?	i would love to travel to italy . traveling is the movement of people from different locations and can be by foot , train , car , plane , cruise , etc . what 's your favorite method of traveling ?
+96	honestly , i would prefer flying because it 's faster . but , it can be quite annoying especially for long international flights	i would rather fly also . the word travel actually may originate from the word travail which means works and sometimes that is how i feel going through the airport security ! lol
+97	i am a huge fan of the nfl .	what 's your favorite team ? i prefer the afc over the nfc .
+98	the afc ? i am all about the nfc and the saints .	the saints are a good team . i like drew brees . it 's crazy that the nfl was formed all the way back in 1920 !
+99	wow ! all the way back in the 1920 ' s : o how many teams where there back then ?	i 'm not sure , but it was n't until 1966 that the first super bowl was played .
+100	who won that super bowl ?	i believe the packers won the first 3 super bowls . the nfl merged with the afl to create the afc and nfc at the time too and the merger was complete in 1970 .
+101	nintendo co . , ltd . is a japanese multinational consumer electronics and video game company headquartered in kyoto .	nintendo co . , ltd . is a japanese multinational consumer electronics and video game company
+102	interesting , how long have they been in the business ?	it was known in japan as the or , was introduced after the video game crash of 1983 ,
+103	how good is nintendo in the video game business ?	founded on 23 september 1889 by fusajiro yamauchi , it originally produced handmade game card
+104	how many video games have the company made so far ?	they are best known for games like best known and top selling video game franchises , such as " mario " , " the legend of zelda " , and " pok mon
+106	canada ( ) is a country located in the northern part of north america .	i have many friends in canada , located in the northern part of north america
+107	i do n't know anyone from canada , what 's it like ?	it has 10 provinces
+108	in which provinces are some of your friends ?	my friend lives in a place called guelph . canada is sparsely populated , most of its land is dominated by forest
+109	in guelph , is it too cold ?	it can be very cold there , especially in wellington county
+111	cinematography ( also called " direction of photography " ) is the science or art of motion picture photography by recording light or other electromagnetic radiation , either electronically by means of an image sensor , or chemically by means of a light sensitive material such as film stock .	thinking about taking a class on cinematography , the direction of photography
+112	i have always wanted to learn that	me too , i have learned its the science and or art of recording motion picture photography

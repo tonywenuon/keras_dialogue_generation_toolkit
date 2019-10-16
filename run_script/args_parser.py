@@ -1,0 +1,177 @@
+
+import argparse
+import tensorflow as tf
+
+def seq2seq_attn_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data or reddit")
+    parser.add_argument("--exp_name", default='seq2seq_attn', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=100, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=50,type=int, help="Batch size.")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--hidden_dim", default=100, type=int, help="GRU hidden state size.")
+    parser.add_argument("--display_step", default=50, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--fact_number", default=1, type=int, help="Fact number, required by the data reader class.")
+    parser.add_argument("--conv_number", default=10, type=int, help="Conversation number, required by the data reader class.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--tensorboard_dir", default='tensorboard', type=str, help="The folder to save tensorboard file.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+
+def copy_mechanism_add_arguments():
+    # Where to find data
+    tf.app.flags.DEFINE_string('data_set', 'example_data', 'example_data or reddit for now')
+    tf.app.flags.DEFINE_string('data_path', '', 'Path expression to tf.Example datafiles. Can include wildcards to access multiple datafiles.')
+    tf.app.flags.DEFINE_string('vocab_path', '', 'Path expression to text vocabulary file.')
+    
+    # Important settings
+    tf.app.flags.DEFINE_string('mode', 'train', 'must be one of train/eval/decode')
+    tf.app.flags.DEFINE_boolean('single_pass', True, 'For decode mode only. If True, run eval on the full dataset using a fixed checkpoint, i.e. take the current checkpoint, and use it to produce one summary for each example in the dataset, write the summaries to file and then get ROUGE scores for the whole dataset. If False (default), run concurrent decoding, i.e. repeatedly load latest checkpoint, use it to produce summaries for randomly-chosen examples and log the results to screen, indefinitely.')
+    
+    # Where to save output
+    tf.app.flags.DEFINE_string('outputs_dir', 'outputs', 'outputs directory for all outputs.')
+    tf.app.flags.DEFINE_string('log_root', 'log', 'Root directory for all logging.')
+    tf.app.flags.DEFINE_string('exp_name', 'pointer_generator', 'Name for experiment. Logs will be saved in a directory with this name, under log_root.')
+    
+    # Hyperparameters
+    tf.app.flags.DEFINE_integer('hidden_dim', 200, 'dimension of RNN hidden states')
+    tf.app.flags.DEFINE_integer('emb_dim', 200, 'dimension of word embeddings')
+    tf.app.flags.DEFINE_integer('batch_size', 50, 'minibatch size')
+    tf.app.flags.DEFINE_integer('max_enc_steps', 30, 'max timesteps of encoder (max source text tokens)')
+    tf.app.flags.DEFINE_integer('max_dec_steps', 30, 'max timesteps of decoder (max summary tokens)')
+    tf.app.flags.DEFINE_integer('beam_size', 5, 'beam size for beam search decoding.')
+    tf.app.flags.DEFINE_integer('min_dec_steps', 15, 'Minimum sequence length of generated summary. Applies only for beam search decoding mode')
+    tf.app.flags.DEFINE_integer('vocab_size', 50000, 'Size of vocabulary. These will be read from the vocabulary file in order. If the vocabulary file contains fewer words than this number, or if this number is set to 0, will take all words in the vocabulary file.')
+    tf.app.flags.DEFINE_float('lr', 0.15, 'learning rate')
+    tf.app.flags.DEFINE_float('adagrad_init_acc', 0.1, 'initial accumulator value for Adagrad')
+    tf.app.flags.DEFINE_float('rand_unif_init_mag', 0.02, 'magnitude for lstm cells random uniform inititalization')
+    tf.app.flags.DEFINE_float('trunc_norm_init_std', 1e-4, 'std of trunc norm init, used for initializing everything else')
+    tf.app.flags.DEFINE_float('max_grad_norm', 5.0, 'for gradient clipping')
+    
+    # Pointer-generator or baseline model
+    tf.app.flags.DEFINE_boolean('pointer_gen', True, 'If True, use pointer-generator model. If False, use baseline model.')
+    
+    # Coverage hyperparameters
+    tf.app.flags.DEFINE_boolean('coverage', False, 'Use coverage mechanism. Note, the experiments reported in the ACL paper train WITHOUT coverage until converged, and then train for a short phase WITH coverage afterwards. i.e. to reproduce the results in the ACL paper, turn this off for most of training then turn on for a short phase at the end.')
+    tf.app.flags.DEFINE_float('cov_loss_wt', 1.0, 'Weight of coverage loss (lambda in the paper). If zero, then no incentive to minimize coverage loss.')
+    
+    # Utility flags, for restoring and changing checkpoints
+    tf.app.flags.DEFINE_boolean('convert_to_coverage_model', False, 'Convert a non-coverage model to a coverage model. Turn this on and run in train mode. Your current training model will be copied to a new version (same name with _cov_init appended) that will be ready to run with coverage flag turned on, for the coverage training stage.')
+    tf.app.flags.DEFINE_boolean('restore_best_model', False, 'Restore the best model in the eval/ dir and save it in the train/ dir, ready to be used for further training. Useful for early stopping, or if your training checkpoint has become corrupted with e.g. NaN values.')
+    
+    # Debugging. See https://www.tensorflow.org/programmers_guide/debugger
+    tf.app.flags.DEFINE_boolean('debug', False, "Run in tensorflow's debug mode (watches for NaN/inf values)")
+    
+def memnn_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data or reddit")
+    parser.add_argument("--exp_name", default='memnn', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=20, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=10,type=int, help="Batch size.")
+    parser.add_argument("--hops", default=3,type=int, help="How many hops in the MemNN.")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--fact_seq_length", default=30,type=int, help="Fact sequence length")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--hidden_dim", default=100, type=int, help="GRU hidden state size.")
+    parser.add_argument("--vocab_size", default=50000, type=int, help="Vocabulary size.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--lr_min", default=0.005, type=float, help="When learning rate decays to lr_min, it stops.")
+    parser.add_argument("--lr_decay_patience", default=2, type=float, help="When lr doesn't change for this number, it begin to decay'.")
+    parser.add_argument("--fact_number", default=10, type=int, help="Fact number, required by the data reader class.")
+    parser.add_argument("--conv_number", default=10, type=int, help="Conversation number, required by the data reader class.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+
+def multi_task_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data or reddit")
+    parser.add_argument("--exp_name", default='multi_task', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=100, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=50,type=int, help="Batch size.")
+    parser.add_argument("--hops", default=3,type=int, help="How many hops in the MemNN.")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--fact_seq_length", default=30,type=int, help="Fact sequence length")
+    parser.add_argument("--conv_seq_length", default=30,type=int, help="Conv sequence length")
+    parser.add_argument("--use_conv", default=False,type=bool, help="Whether use context")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--beam_size", default=3,type=int, help="Used for beam search.")
+    parser.add_argument("--hidden_dim", default=100, type=int, help="GRU hidden state size.")
+    parser.add_argument("--vocab_size", default=50000, type=int, help="Vocabulary size.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--lr", default=0.0008, type=float, help="Initial learning rate.")
+    parser.add_argument("--lr_min", default=0.0001, type=float, help="When learning rate decays to lr_min, it stops.")
+    parser.add_argument("--lr_decay_patience", default=2, type=float, help="When lr doesn't change for this number, it begin to decay'.")
+    parser.add_argument("--fact_number", default=1, type=int, help="Fact number, required by the data reader class.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+
+def ted_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data, reddit or de_en")
+    parser.add_argument("--exp_name", default='ted', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=100, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=50,type=int, help="Batch size.")
+    parser.add_argument("--use_conv", default=False,type=bool, help="Whether use context")
+    parser.add_argument("--conv_seq_length", default=30,type=int, help="Conv sequence length")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--fact_seq_length", default=30,type=int, help="Fact sequence length")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--num_heads", default=4,type=int, help="Multi-head numbers.")
+    parser.add_argument("--beam_size", default=3,type=int, help="Used for beam search.")
+    parser.add_argument("--transformer_depth", default=1,type=int, help="The number of Transformer blocks.")
+    parser.add_argument("--fact_number", default=1,type=int, help="How many facts should be injected.")
+    parser.add_argument("--vocab_size", default=50000, type=int, help="Vocabulary size.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--lr", default=0.001, type=float, help="Initial learning rate.")
+    parser.add_argument("--lr_min", default=0.00001, type=float, help="When learning rate decays to lr_min, it stops.")
+    parser.add_argument("--lr_decay_patience", default=2, type=float, help="When lr doesn't change for this number, it begin to decay'.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+
+
+    #parser.add_argument("--exp_name", default='vanilla_transformer', type=str, help="The experiment name.")
+def transformer_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data, reddit or de_en")
+    parser.add_argument("--exp_name", default='vanilla_transformer_tmp', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=50, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=32,type=int, help="Batch size.")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--fact_seq_length", default=30,type=int, help="Fact sequence length")
+    parser.add_argument("--conv_seq_length", default=30,type=int, help="Conv sequence length")
+    parser.add_argument("--use_conv", default=False,type=bool, help="Whether use context")
+    parser.add_argument("--fact_number", default=1, type=int, help="Fact number, required by the data reader class.")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--num_heads", default=4,type=int, help="Multi-head numbers.")
+    parser.add_argument("--transformer_depth", default=1,type=int, help="The number of Transformer blocks.")
+    parser.add_argument("--vocab_size", default=50000, type=int, help="Vocabulary size.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--lr", default=0.001, type=float, help="Initial learning rate.")
+    parser.add_argument("--lr_min", default=0.0001, type=float, help="When learning rate decays to lr_min, it stops.")
+    parser.add_argument("--lr_decay_patience", default=2, type=float, help="When lr doesn't change for this number, it begin to decay'.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+
+def universal_transformer_add_arguments(parser):
+    parser.add_argument("--data_set", default='example_data', type=str, help="Currently, this can be example_data, reddit or de_en")
+    parser.add_argument("--exp_name", default='universal_transformer', type=str, help="The experiment name.")
+    parser.add_argument("--epochs", default=100, type=int, help="Epoch numbers.")
+    parser.add_argument("--batch_size", default=32,type=int, help="Batch size.")
+    parser.add_argument("--src_seq_length", default=30,type=int, help="Source sequence length")
+    parser.add_argument("--tar_seq_length", default=30,type=int, help="Target sequence length")
+    parser.add_argument("--fact_seq_length", default=1,type=int, help="Not used in Universal Transformer")
+    parser.add_argument("--conv_seq_length", default=30,type=int, help="Conv sequence length")
+    parser.add_argument("--use_conv", default=False,type=bool, help="Whether use context")
+    parser.add_argument("--embedding_dim", default=100, type=int, help="Word embedding size.")
+    parser.add_argument("--num_heads", default=4,type=int, help="Multi-head numbers.")
+    parser.add_argument("--transformer_depth", default=1,type=int, help="The number of Transformer blocks.")
+    parser.add_argument("--fact_number", default=0,type=int, help="Universal transformer does not have fact.")
+    parser.add_argument("--vocab_size", default=50000, type=int, help="Vocabulary size.")
+    parser.add_argument("--early_stop_patience", default=3, type=int, help="Indicate how many step to show current loss.")
+    parser.add_argument("--lr", default=0.00153, type=float, help="Initial learning rate.")
+    parser.add_argument("--lr_min", default=0.00001, type=float, help="When learning rate decays to lr_min, it stops.")
+    parser.add_argument("--lr_decay_patience", default=2, type=float, help="When lr doesn't change for this number, it begin to decay'.")
+    parser.add_argument("--checkpoints_dir", default='log', type=str, help="The folder to save checkpoint.")
+    parser.add_argument("--outputs_dir", default='outputs', type=str, help="The folder to save test outputs file.")
+

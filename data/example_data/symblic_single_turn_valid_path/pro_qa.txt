@@ -1,0 +1,1000 @@
+0	i like gardening , even when i 've only been doing it for a short time .	i live on a farm , we garden all year long , it is very relaxing .
+1	that sounds great . i 've always thought that i would love living in a farm , but i ve always lived in the city . what do you mostly plant ?	i have planted several fruits trees , tomatoes , jalepenos , bell peppers , onions , garlic , and potatoes mostly .
+2	great , i love the idea of growing my own vegetables and fruits ! do you have animals in the farm ?	yes i do . cows , chickens , micro pigs , guinneas , we also do forest growing also . we plants large pine trees .
+3	wow , it sounds amazing , the micro pigs are so cute ! are they trainable to be well behaved ?	yes they are . they are extremely smart . most people buy them for inside pets . you can train the to use a litter box just like a cat . when families started using vines and trees to build their houses out of there was several species of trees and vines that were eliminated by them .
+4	i would like to know more about bob ross	ross was an american painter and television host
+5	thats cool what else ?	he created the show " the joy of painting "
+6	yes i like to watch that some times	the show aired from 1983 to 1994 on pbs .
+7	it ran for a long time	he is very popular on youtube even into this century
+8	stamp collecting is the collecting of postage stamps and related objects .	the hobby of stamp collecting involves collecting stamps and related objects
+9	i have always wondered how this works ... grabbing popcorn this will be good	its actually one of the world 's most popular hobbies since the late 19th century
+10	my grandfather was very into it . i seen a nirvana stamp and had to have it , but that is the extent of my addiction	its proved to be a almost perfect hobby for collectors because there is a never ending stream of new stamps
+11	do you do this too ? i want to get started but nervous i will n't get it down . i would love to have a hobby like my grandfather did	yea and its funny that stamp collecting is generally accepted as one of the areas that make up the wider subjet of philately
+12	i have heard that , i 'm not sure where . i bet my grandma told me that ! how many stamps exist or is that question unknown ?	causual stamp collects acumulate stamps for sheer enjoyment and relaxation
+13	my husband likes video games i 've heard there is one called quake do you know much about it ?	yes , o ' my god . love it ! it 's a first person shooter developed by id software .
+14	what could i tell my husband about it that would make him want to buy it ?	while playing the game players must find their way through various maze like , medieval environments while battling a variety of monsters . it 's amazing !
+15	monsters oh that sounds right up his alley what else ?	it offers full real time 3d renderings which is very rare for games of that type and time period .
+16	i think he would really like the 3d renderings how long does it take to play from beginning to end ?	i 'm not sure i 've never beat it . the various maze like levels take a long time .
+17	i 'd like to work in finance some day , do you have any good information about different branches of finance so i can maybe narrow it down ?	well , just to clarify finance deals with the study of investments . that 's what you 're looking to know about ?
+18	yes that 's exactly the area of interest for me .	great ! there are three categories . the public , corporate and personal finance . do you have a preference of which area you might like best ?
+19	i 'd like to know more about public finance i think , what do you have for me ?	good choice ! public finance deals with the governments role in the economy . i 'm sure there a bit of stress when it comes to a job like this !
+20	yes i think you might be right , but it seems like a very important job , we need to hold people accountable for what they spend !	yes i agree ! in most circumstances the private market allocates the services and good of a community to it 's individuals efficiently . the goal is to match individual tastes with the what the economy is producing .
+21	hello ! i heard you knew a lot about asthma . i have asthma and i 'd like to know more about it .	i am sorry you have the long term inflammatory disease of the airways of the lungs .
+22	yeah it 's not great . what else can you tell me ?	do you have symptoms like reversible airflow obstruction , and bronchospasm .
+23	yes . it 's really bad if i exercise too hard or am around cats and dust .	afterwards you can start with pisodes of wheezing , coughing , chest tightness , and shortness of breath .
+24	that 's right ! that 's when i have to use my medicine . what do you know about medication for asthma ?	well your diagnosis depends on the pattern of symptoms , response to therapy over time , and spirometry
+25	yeah . i had to have a bunch of tests done .	they often classify it as atopic or non atopic , where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction .
+26	pizza is a traditional italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven .	i love pizza ! this italian dish with a crust , tomato sauce and cheese is delicious !
+27	oh yes , pizza is wonderful . i could eat it all the time , if it was made the way i like it .	yes , i like to add additional toppings like meats , vegetables and cheese !
+28	i do n't really like the veggies , i have tried peppers on it before , but it does n't taste good .	so , you like mainly meats ? i understand why pizza is the most popular food throughout europe and north america though . it 's so yummy
+29	yes , it is . i prefer some pepperoni , not a lot . i do like chicken on it as well . i even like it plain .	i wished i could get pizza delivered to my home , but i live too far out of the county . but , it would be dinner a couple times a week if i could !
+30	i love pizza , but i 'm just not fond of the way the pizza places here make it , like dominos and pizza hut	well , pizza was actually first recorded back in the 10th century , so it sure has been around for a very long time .
+31	i larp on the weekends in the forest in a live action role playing game . have you tried it ?	i love larps ! interestingly it was tabletop role playing games that inspired them !
+32	neat ! im guessing there is a huge variety of larps ! do many people still play besides me ?	absolutely ! in fact , larps spread internationally not too long ago !
+33	really ? wow ! where are they popular overseas ?	canada , finaland , germany to name a few ! they 're arranged by gamemasters who decide on the rules
+34	it would be neat to go to an international event . how long do games usually last ?	it can sometimes take a few hours . but i 'm sure some players lose track of time as they physically portray their characters !
+35	that 's a good length ! yeah people basically become the characters ! larps remind me of reenactments .	me too ! and some use realistic historical settings for even more fun !
+36	i love classical music . it helps me relax after a long day . do you like classical ?	i listen to it on occasion , i just find it rigid and structured unlike jazz or blues , but i do listen on occasion to clear my mind .
+37	i can n't stand jazz . i need something besides high pitch horns . classical music tells a story .	to each his own for sure ! but jazz is actually called america 's classical music in some places .
+38	i 'm native american and i do n't consider it classical at all . give me a drug circle that 's classical .	well music is an art form and not everyone has the same taste and that is perfectly fine . if we did the world would be a boring place .
+39	i guess so . but in the end we only have one true classical music . it 's the music of deep thought , relaxation and brain power .	maybe but i am happy music exists because all the different styles are forms of expression which makes all of us unique .
+40	penguin random house seems like it has been around for awhile .	i think it was founded in 2013 , sometime in the summer .
+41	i have heard of it prior to that .	it was formed in america in 2013 from a merger between random house , and the penguin group .
+42	okay that makes sense . i have heard of them separately then .	yeah they may have formed in america , but they employ people from across the globe through publishing , and the digital book trade .
+43	do you know when each of them separately formed ?	no , but i do know that random house was a german media conglomerate bertelsmann , and penguin group was a british publishing company pearson plc .
+44	what else do you know about the merger ?	random house owns 75 of the company , and penguin group owns 25 .
+45	nike , inc . ( ) is an american multinational corporation that is engaged in the design , development , manufacturing , and worldwide marketing and sales of footwear , apparel , equipment , accessories , and services .	soccer is my favorite sport . the american corporation nike produces the best soccer cleats that i have ever tried !
+46	soccer is fun to watch but so hard to play .	soccer is n't always one of the most popular sports but it 's generally within the top 5 leagues .
+47	do you know what the best soccer team worldwide is ?	i 'm not sure about worldwide but in the u . s . soccer has been gaining immesnse popularity recently .
+48	i once played soccer as a child , but was n't too good . it 's a good exercise though .	it is really great exercise ! i can never get enough of it myself . i 'd love to play all day .
+49	have you ever heard of the story so far ? they 're my favorite band .	story so far is an american pop punk band.do you love pop music ?
+50	pop music is great ! do you like pop music as well ?	genre that fuses elements of punk rock and pop music
+51	right , that 's what pop punk is , which is the genre of my favorite band , story so far !	punk rock music genre and subculture that originated in the late 1970s .
+52	that 's something i did n't know . neat . thanks for teaching me more about pop punk .	also , 2000s saw the creation or emergence of a few styles , such as indie related genres
+53	i also like indie music . can you tell me the names of any indie bands ?	grunge and punk revival bands in the us , and then britpop bands in the uk , broke into the mainstream in the 1990s
+54	hi there , have you ever been to sunday school ?	no i have never been . but they were first set up in the 1780s for working kids .
+55	i really did not enjoy sunday school as a child , but i like church now . do you go to church ?	i used to be part of the church of god in christ . it is pentecostal and mainly has african americans in it .
+56	that 's cool , my church is pretty diverse . we have many different races , i really enjoy it . do you like church ?	i do love it . especially as a pentecostal , which is the greek word for " jewish feast of weeks " . you can imagine why i enjoy it so much .
+57	that sounds really fun ! how does this event work ? do you eat a different food a day ?	it is all about the descent of the holy spirit , so metaphorically it has very deep meaning for me .
+58	i see , so it 's more than just eating ?	yes , much more . the holy spirit is extremely important in the trinity . god and the son and the holy spirit are all equal and important .
+59	i love to play tennis	same ! tennis is a racket sport that can be played individually against a single opponent ( singles ) or between two teams
+60	who invented it ?	im not sure really . it so odd how hitting a felt rubber ball can be so much fun
+61	i totally get that .. i love the running around and hitting the ball	yeah i like that the player who is unable to return the ball will not gain a point
+62	do you have a favorite tennis player ?	no not me but the modern game of tennis originated in birmingham , england
+63	oh thats something i didnt know	i read that during most of the 19th century , in fact , the term " tennis " referred to real tennis , not lawn tennis :
+64	i once seen the band rush in concert . it was awesome ! do you listen to them ?	that 's really cool , i do n't listen to them but i know a bit about them . they 're a canadian rock band . they have geddy lee on it , alex lifeson and neil peart .
+65	yeah , they are legends here ! their live shows are really something . so many people !	yeah and rush is known for ther complex compositions and eclectic lyrical motifs too , they draw heavily on science fiction , fantasy and philosophy which is so unique .
+66	i did n't know that ! have you ever heard their music on the radio ? or would you not recognize it at all ?	i might recognize them from their thought provoking lyrics , they 're usually philosophical , metaphorical or somewhat metaphysical .
+67	yes definitely ! that 's what i love about them . so engaging , so thought provoking . would you like to see them in concert ?	i 'd love to see their concert ! i 'd want to see geddy lee and hear his awesome vocal , and alex lifeson on guitar ! i mean , wow that 'd be cool . neil is so good on drums too , that 'd be pleasure to hear live .
+68	i have always wanted to try snowboarding . have you ever snowboarded ?	i have ! it 's so much fun ! it used to be a lot more popular in the us , but interest has declined since 2007 .
+69	is it like surfing or skateboarding ?	as a matter of fact , it is ! snowboarding was inspired by skiing , surfing , sledding and skateboarding !
+70	i 'm worried about getting injured though .	yes , it can be dangerous . i wonder how many people have been injured since snowboarding was invented in 1965 ? surely quite a few !
+71	who was the crazy person that even invented this sport ? they must have been crazy !	sherman poppen ! he was an engineer in michigan . he invented the toy for his daughters by fastening two skis together . guess what he called it ?
+72	what did he call it ? oh , is it an olympic event ? if i do this , i might want to get competative .	he called the first snowboard a " snurfer " combining snow and surfer ! cute name , but i 'm glad it did n't stick . and yes , snowboarding is very popular in the winter olympics !
+73	hello my friend ! i had a tough time growing up , im a redhead ! bu tnow its getting better !	i love red hair ! in fact i just dyed mine a shade of red ! i heard that red hair occurs naturally in only 1 to 2 of the human population
+74	i know ! i feel special ! and also very rare taking in consideration that occurs more frequently ( 2 6 ) in people of northern or western european ancestry and im from canada !	what shade of red is yours ? is it more burgundy , copper , strawberry blonde or reddish brown ?
+75	do you know who emma stone is ? exactly like her ! how about you , any friend that is red head ?	i do have a friend with red hair . bright red in fact . i think its so pretty ! she has the freckles and fair skin , light eyes
+76	sounds like a pretty women ! like nicole kidman , another rehead hahaha , now i love my hair .	you should ! i know there are stereotypes about fiery tempers going with it but i 'm not sure it 's true
+77	swimming is consistently among top public recreational activities , and in some countries , swimming lessons are a compulsory part of the educational curriculum .	swimming is my favorite form of exercise . it seems to be among the top recreational activities around the world .
+78	swimming is a splash of a time . what all do you do , swim with friends or a team ?	i usually just swim by myself doing laps , but i enjoy watching competitions , especially during the summer olympics .
+79	it sounds like you live a great and balanced life . out of curiousity , why do you do it ... fun , health or family thing ?	i used to be on swim team when i was younger and i loved it . now that i 'm older it 's a good activity for me since it 's low impact compared to running which hurts my knees .
+80	that is a great reason ! i was just curious , i like to know the background to people i chat with . i bet you burn massive calories in a pool ?	i try , some days more than others . it 's amazing to me how the body is just slightly less dense than water and the water supports of weight of us while we swim .
+81	italian cuisine is food typical from italy .	i enjoy eating italian food : 0 ) especially spaghetti . it originated in italy
+82	i like italian food too ! i cook spaghetti quite often	italian food tastes are regionally different , depending which part of the italian boot one visits
+83	i have not been to italy , but i would like to sample the different foods there	italian foods have diverse tastes . its quite popular in the culinary world and its dishes are replicated much
+84	yes , i think italian food is very popular . think of all the pizza restaurants out there .	i love the simplicity associated with italian cooking . cooking is easily prepared with 2 4 main ingredients
+85	yes , i like to prepare simple meals .	italian cooking relies on the quality of the ingredients and its simplistic preparation process
+86	donald john trump ( born june 14 , 1946 ) is the 45th and current president of the united states , in office since january 20 , 2017 .	people seem to either love or hate donald trump . he is the 45th president and had been in office since jan . 20 , 2017 . do you like him ?
+87	i tried to give him the benefit of the doubt when he was elected . hate is a strong word . i do not support a lot of the decisions he 's made while in office , though . but maybe you can give me a balanced view . what do you know about him ?	he grew up in queens but then went to pennsylvania to get an economics degree from wharton , so he 's at least well educated .
+88	i see . that makes sense . can you tell me anything specific to his election and or presidency ?	i do n't know much in depth about his presidency just know some about him . he entered the race as republican and actually defeated 16 other opponents in the primaries .
+89	i had no idea he defeated 16 people in the primaries . i guess that sort of is impressive , and is a testament to how much people wanted him in office . what is something more unique about him that you know ?	i find this an interesting fact . he owned the miss universe and miss usa beauty pagents from 1996 all the way to 2015 .
+90	hah ... probably a first for an elected president . you 're right , that is interesting . i actually want to hear something else along those lines , as i 'm sure there are many unique things about him that make him stand out as a president , good or bad , because of his colorful history .	most people know that he was the host on the apprentice but most people are unaware that he the the producer , as well .
+91	hi , reading is a good habbit	i agree . its a means of comprehensive and communication .
+92	reading is a means of language acquisition , communication , and of sharing information and ideas .	reading is complex in nature , but acquires an acquisition of text and the readers ' prior knowledge to shape this interaction .
+93	four types are reading skimming , scanning , intensive , extensive	those processes require repeated practice , knowledge and retainment .
+94	reading keeps your brain young .	true , retention in fact requires creativity and critical analysis of subject matter read .
+95	yes , reading boosts your vocabulary .	reading is an interpretative process , as it cannot be controlled or restricted by a mere few interpretations .
+96	obsessive compulsive disorder ( ocd ) is a mental disorder where people feel the need to check things repeatedly , perform certain routines repeatedly ( called " rituals " ) , or have certain thoughts repeatedly .	hello , obsessive compulsive disorder is a mental condition where people perform repetitive movements such as turning lights on and off .
+97	do you know anyone who has ocd ?	not personally . ocd sufferers also frequently wash hands and count things .
+98	that 's interesting . is that genetic ?	it is believed genes do play a part in developing the disease . most sufferers realize that the behavior is not natural .
+99	is there any method to " cure " ocd ? what can sufferers do to stop it , if anything at all ?	although victims are unable to control their thoughts , cognitive behavior therapy ( cbt ) helps with developing coping techniques .
+100	i like to make bagels .	i enjoy eating them . they 're usually topped with seeds baked on the outer crust . what kind of bagels do you like ?
+101	i really like a whole wear bagel .	what about cream cheese ? that 's commonly paired with bagels .
+102	i really like cream cheese but also sometimes peanut butter on my bagels .	ahh yes peanut butter is popular in many countries ! do you prefer chunky or smooth ?
+103	always chunky , i like the brunch when i take a bite .	i do as well . peanut butter typically contains additional ingredients to modify it 's texture and even taste .
+104	what other kind of ingredients ?	the peanuts themselves but also salt , sweeteners or emulsifiers .
+105	i love eating on starbucks have you been there ?	i have been , i love starbucks ! i even went to the original location in seattle , which was founded in 1971 .
+106	that is incredible , do you know who founded it ?	i actually do n't but starbucks now has 23,768 locations worldwide . wow !
+107	that is really incredible , no wonder why they are the leading coffe restaurant worldwide	i like the flavour of starbucks darkly roasted coffee .
+108	in is really incredible , i really like their frapuchinnos	yes , starbucks really has a range of drinks ! i like a pumpkin spice latte myself .
+109	my dad play a lot of golf and i want to take him out sometime . but i really dont know much about the sport .	golf is a club and ball sport , you should learn it is a good time !
+110	do you know you score points at it . ?	yeah the goal is to hit balls into a series of holes on a course in as few strokes as you can .
+111	cool i have heard them refer to something as par before . do you know what that is ?	yeah par is the predetermined number of strokes that a golfer should take to complete a hole , for example a par 3 hole should take 3 strokes .
+112	interesting , do you have any pointers for me ?	the only tips i have would be to get out there and start playing ! it takes a lot of practice , the modern game of golf goes back as far as 15th century scotland !
+113	well i will be sure to stick to it and practice thanks !	just remember to stay out of the sand traps , also called bunkers , and various water hazards , like ponds !
+114	wind blown sand grains striking any solid object in their path can abrade the surface .	i really love the patterns formed by wind blown sand upon rocks .
+115	i know what you mean , i love being outside in nature in general .	i prefer to go to the beach and search for rocks that have been washed with sand to form little pebbles .
+116	the beach is great , i do n't get to go very often . i 'm more of a lake person .	i live quite close to the ocean so i am able to find them on a daily basis . our beach is considered a shingle beach as it has many pebbles .
+117	interesting , the beaches that i 've been to have only had fine sand . but there is always algae in the water .	i love living next to the sea as it moderates earth 's climate and plays a very important roll in the cycle of carbon , nitrogen and water .
+118	that 's why i think we need to be more aware of the health of our ocean because it does play such a big role in the overall environment .	i totally agree as well many many times i take a bag with me just to pick up what others have left behind on the beach to help wildlife sustain a living space free of trash .
+119	i have always wanted a pet skunk . i 'm not sure if that 's a good idea though .	it certainly seems risky as the animals are known for their ability to spray a liquid with a strong , unpleasant smell .
+120	can you get their sprayer fixed so it can n't do that anymore ?	i 'm not sure honestly , and that seems kind of unethical in my opinion . i do know that skuns are omnivorous , meaning they eat both plant and animal material .
+121	you have a good point . that would n't be very nice . probably not a good idea for a pet . i did n't know they were omnivorous either .	i 'm glad you agree , i also read that all skunks are striped , even from birth , how neat is that ?
+122	that is really neat . i guess it 's better just to learn about them than to keep them in captivity . i 'm glad i asked .	that seems like a reasonable attitude , even though we think of skunks as only black and white , some are actually brown , cream , or even ginger colored , how cool .
+123	she is known for her unconventionality and provocative work as well as experimenting with new images .	lady gaga is so weird but interesting as well , since she is so well known for her provocative and unconventional work .
+124	i frankly must have been sleeping through her rise to fame .	i know what you mean . also even if she is weird , she started off like any small singer performing at open mic nights and school plays .
+125	well that is a good story . i 'm afraid that i must live under a rock though . like patrick from spongebob !	have you never heard of her at all ? she has topped the us charts many times .
+126	well sure i have , but i could n't pick her out of a crowd other than that i expect she dresses ridiculously .	that 's fair enough , it 's really impressive that someone so strange can make tracks that are so popular that they sell over a million songs in less than a week on itunes .
+127	manager brian epstein moulded them into a professional act , and producer george martin guided and developed their recordings , greatly expanding the group 's popularity in the united kingdom after their first hit , " love me do " , in late 1962 .	i love the beatles , love me do is one of my favorite songs of theirs , made all the way back in late 1962 .
+128	the beatles are a classic , when did they first form ?	i believe they formed in liverpool in 1960 .
+129	such a long time ago , arguably the biggest band of all time , had such a massive impact on the music industry . who was your favorite member ?	it has to be ringo starr , who did n't join until 1962 after they tried a few other drummers , guess he was that good they knew he was the one .
+130	im a john lennon guy myself , tragic what happened to him , sadly we have some sick and twisted people in this world .	it is quite sad , mental illness is quite the big topic nowadays given our current culture . i was quite fond the songwriting partnership he formed with mccartney myself .
+131	my favorite of theirs is probably a day in the life , they wrote so many famous songs .	their popularity is certainly enermous , it 's not wonder it was called beatlemania , it really was like a mania .
+132	hello , are you a vegetarian ?	it just so happens that i am . i abstain from eating meat .
+133	that was the best decision of your life	thanks . i agree . my motivations were health related . are you vegetarian ?
+134	absolutely yes.my life changed when i decided to become a vegetarian	when you became a vegetarian , what were your motivations ? health ? animal rights ?
+135	my number 1 motivation was my health , what about yours ?	health as well . did you find your health improved ?
+136	my son loves comic books , but i know literally nothing about them ! are you a comic book fan ?	i know a bit about them . comic books are a publication that has sequential panels that represent individual scenes .
+137	sounds interesting ! what are some of the most popular comic books ?	super hero comic books are very popular , though comic books originated in japan in the 18th century .
+138	oh wow ! i had no idea they 've been around that long . i 'll bet those early japanese ones were beautiful !	yeah , one of the main things that comic books rely on is their organization
+139	i 'll bet there are a lot of great stories ! i think one of my favorite shows , the walking dead , started as a comic book !	yes , it was based on the comic book series by robert kirkman , tony moore , and charlie adlard .
+140	nice , i 'll have to check them out one day ! what else can you tell me about comic books ?	balloons , text lines , characters , and panels are the key elements of comic books .
+141	as much as i love cooking and have a ton of fun doing it , i do n't think i 'd cut it on a shop like top chef .	yes i love that show , i really love how it has lots of chefs competing against each other in various culinary challenges . it makes it more interesting .
+142	and there 's usually a required ingredient , which is something insane like beer or lemons or something . why are these shows so popular ?	people just like food shows , top chef actually got so popular that they made another show called " top chef junior " , it features ypung contestants in their early teens , it was premiered in october 2017 on universal kids .
+143	yeah i try to avoid watching that one , because i do n't need to feel like my childhood was worthless compared to these kids who can already cook better than me .	indeed , some people i know dont like that show , but it can make kids more interested in cooking and get into a culinary work for their career .
+144	that 's the hope at least , right ? i feel like most of the time the way it plays out is that kids just want to get in the way in the kitchen .	yep , i know that numerous international adaptations of " top chef " have also been produced , thats pretty crazy , just goes to show you how popular it is overseas .
+145	with roots in blues rock and psychedelic acid rock , the bands that created heavy metal developed a thick , massive sound , characterized by highly amplified distortion , extended guitar solos , emphatic beats , and overall loudness .	heavy metal music has roots in blues and acid rock .
+146	i have never heard of acid rock , what is that ? i like heavy rock but not wuite metal	acid rock features distorted guitars and lyrics centered around drugs .
+147	ah , did it originate back in the 70s or 80s then ?	around the 60s , think psychedelic when it comes to acid rock . think lsd too lol
+148	ah okay , that makes more sense then . are you a fan of the genre at all ?	heavy metal , not much , nor acid rock . i 'm not too familiar with either personally .
+149	i understand that , heavy rock is as far as i go , anything past that feels a bit too " edgy " i guess	yeah , heavy metal is very aggressive , at least i feel that way personally .
+150	skateboarding is a hobby of mine , i am not good at it , but i like it	i used to skateboard , but i really did n't have a lot of tricks up my sleeve . most of the time i was just babysitting my younger brother at skate parks .
+151	i understand that , i started liking it when my oldest son got involved , i still love to watch the dew tour when it comes on	i have n't really watched the dew tour . the only extreme sports event i used to watch was the x games for it 's first few years . i 've been out of it for a while .
+152	it is amazing how far tony hawk took the sport , and that he still dabbles in it , but his oldest son skates too	i remember playing his original video game . tony hawk 's pro skater on the n64 . that was really awesome back in the day .
+153	it was on the n64 , it was really cool hoe you could sometimes skate through the walls .. lol ... i like the tricks like the ollie	i remember once i learned to do an ollie myself , i tried to move to the kickflip . i do n't think i ever mastered the kickflip .
+154	the kickflip is really hard , i remember practicing for hours at a time , and never mastering it	i landed kickflips here and there . but my stupid little brother could throw down 360 flips like they were nothing at all ! it was a little discouraging .
+155	i love me some netflix ! do you like it ?	yeah i love netflix , which is an american company .
+156	yes , and they sure have became very popular . i bet they are in the top of their league , compared to other companies ?	netflix really took the lead over other companies like blockbuster .
+157	yes , and i think they are pretty much out of business almost everywhere now . i imagine they may be doing better than dish network and direct tv too ?	they must be , since cable is dying . netflix was founded back in august 1997 .
+158	i had no idea it had been around that long , so i guess it has taken some time to rise to the top . do you have a favorite netflix show ?	of all the shows on neflix , i really like the show trailer park boys . it is n't american though , it 's canadian . unlike netflix the company .
+159	i had no idea it had been around that long , so i guess it has taken some time to rise to the top . do you have a favorite netflix show ?	like i said i really like trailer park boys on the american entertainment company of netflix .
+160	one of my favorite foods is macaroni and cheese , do you like mac n cheese ?	macaroni and cheese is my number one comfort food ! no lie , i eat it at least 5 times a week !
+161	it 's such a good go to . i could eat it every day . i sometimes put little bacon bits in it or some bread crumbs . do you like yours with anything extra ?	there 's other dried and fresh pastas that i 'll add things to , but i hate anything in my macaroni . i like it pure lol
+162	haha , a mac n cheese purist . plain macaroni is perfect by itself anyways .	yes i am :) funny enough , i know kraft innovated the whole " cheese powder , milk , and butter " thing , but i really do n't like the kraft macaroni .
+163	as much as i can enjoy some kraft box macaroni , i prefer homemade baked mac n cheese with a light crisp on the top .	as many different kinds of pasta secca and pasta fresca as there are , i do n't know why i can n't get on board with kraft .
+164	i was thinking about becoming a yoga instructor but i do n't know much about it . do you ?	i do . the word yoga means " listen " in sanskrit . it 's a group of practices of both a physical and spiritual bent .
+165	oh really ? listen ... that is interesting . i guess listen to your body ?	kind of , yes . in india where yoga comes from , it is more than physical exercise . meditation and spirituality are also an important part of the practice .
+166	oh yes i have heard this as well . i have been learning to meditate recently . :)	meditation is a great way to reduce stress and anxiety . meditative practices also originated in asia .
+167	yeah , they are all very spiritual people in that part of the world . i would love to visit there one day .	it 's a wonderful part of the world . it was actually yoga gurus from india who brought yoga to the west .
+168	yes , they are so merciful to bring this knowledge to the west . we are so fortunate !	indeed we are . if you 're looking to get into yoga , the two most popular types are hatha yoga and raja yoga . might be worth looking into !
+169	in some institutions and educational systems , some bachelor 's degrees can only be taken as graduate or postgraduate degrees after a first degree has been completed .	in some institutions a bachelors degree is a graduate degree not an undergraduate degree .
+170	for real ? how does that even work ?	the student can n't start a bachelor degree until a first degree has been completed , probably like an aa .
+171	and then when applying for jobs do you think it makes a difference ? like i want to get a master 's so i 'll be slightly more valuable to potential employers .	really depends on your profession , in some cases a masters degree can make you too valuable and companies wont hire you , in most cases its a good thing to have a masters though . what are you trying todo ?
+172	well i 'm a biologist by training , but i really want to work at the cdc . i was thinking about getting a master 's in microbiology because just a four year degree is n't usually enough for these government agencies .	masters should definitely help , its sounds counter intuitive but if you go for a phd it can make it easier to get your schooling for free . at least it does in engineering
+173	i actually thought about pursuing a phd after college , but i felt that i was n't smart enough to get into any labs .	if you can get into a masters program , it shouldnt be too hard to get into a lab just gotta network and get in with the right people .
+174	this list is only for theatrical films released under the main disney banner .	my girlfriend and i enjoy watching disney 's animated theatrical films , like the little mermaid . do you watch them ?
+175	yes ! i grew up with those films . they are so good .	have you seen frozen ? it 's based on an old hca fairy tale : " the snow queen . " it 's nice to see old stories get updated treatments !
+176	frozen was a good love story . i really liked the snowman . he was funny	olaf and a lot of the other characters ended up being too symbolic in the screenplay drafting process . the original fairy tale was just that good !
+177	fun fact the caracters in frozen were named after hans christian andersen . hans , kristoff , anna , sven	kristoff reminds me of me when i was in my early twenties : tall , rugged , and handsome . i definitely qualify for that last one ...
+178	haha , im more like sven or olaf	it would be a great drinking game to play . every time a character exactly resembles you or a friend , take a shot !
+179	toyota is the world 's market leader in sales of hybrid electric vehicles , and one of the largest companies to encourage the mass market adoption of hybrid vehicles across the globe .	do you like toyota vehicles ? they are the worlds largest market leader in sales of hybrid electric vehicles
+180	hi . i have never had a toyota but i know a lot of people like them .	we own a toyota camry but not one of their hybrid electric vehicles
+181	we have mainly owned chevy and nissan . i love my nissan , i have never had a hybrid electric vehicle before .	i have n't either . i read that cumulative global sales of of toyota and lexus hybrid passenger cars achieved the 10 million mark in jan 2017
+182	wow , that is great . i think if we ever considered a electric vehicle we probably would go with tesla .	i have heard those are great cars . they say the prius is good . it is the worlds top selling hybrid with over 6 million units sold worldwide
+183	hey ! my favorite holiday is halloween because i like dressing up !	me too ! i wish i was young enough to still trick or treat , but i also like apple bobbing , playing pranks and visiting haunted houses . all great halloween traditions !
+184	yeah , it 's such a fun time ! you can still have fun as an adult though . there 's plenty of activities to do . do you know how long people have been celebrating halloween ?	not exactly but it 's believed that halloween traditions date back to ancient celtic harvest festivals , so it must be a really old holiday !
+185	wow , so cool ! i wonder what types of things people would wear as a costume back then ?	i wonder ! halloween is actually a three day observance of allhallowtide , a time of year dedicated to remembering the dead . the holiday sure has evolved !
+186	ooo spooky ! i never knew people would remember the dead on halloween . do you know why people carve pumpkins ?	i 'm not sure but wearing costumes goes all the way back to scotland in 1585 !
+187	the new york times ( sometimes abbreviated as the " " nyt or the times ) is an american newspaper based in new york city with worldwide influence and readership .	the new york times is a great newspaper .
+188	ok when was it founded ?	it was founded a while back , in 1851 .
+189	nice , it has been very successful , who owns nyt ?	i 'm not sure but is has the largest combined print and digital circulation .
+190	awesome . did the company start off in 1851 as a publishing company ? or changed somewhere along the line ?	it started off in 1851 as publishing , yes . it has won 122 pulitzer prizes too .
+191	oh it has won prizes nice , apart from pulitzer what other achievements can we accord to nyt	well in the 1970s they greatly expanded their layout and organization too .
+192	classical music is art music produced or rooted in the traditions of western culture , including both liturgical ( religious ) and secular music .	i greatly enjoy listening to classical music . it has a rich history rooted in the traditions of western culture .
+193	who is your favorite composer ?	difficult to choose but i would have to say bach .
+194	and your favorite piece ?	my favorite piece is the " goldberg variations " which is an instrumental composition bach is known for .
+195	what instruments are used in the piece ?	i believe a variety of instruments though i do n't know specifics . i could easily find out because the piece debut album actually came out in 1955 ! so recent !
+196	do you know anything about being lactose intolerant ?	i think i may have lactose intolerance . i 'm having a hard time digesting milk .
+197	yes all dairy products make you have gas or indigestion however , there are things you can do about it .	i 'm thinking about taking lactaid tablets to avoid having gas and nausea every time i consume lactose .
+198	they do help , also you can get lactose free milk which is really good .	i was happy to learn that lactose intolerance does not cause damage to your gastro tract ! still , i need to avoid consuming too much of it , it is n't a pleasant feeling !
+199	true , but sometimes a little gas is worth the effort , especially for a milkshake .	i agree . at least i was prepared for this , i was aware that as you age , it 's more likely you will get primary lactose intolerance .
+200	definitely the aging process has a lot to do with lactose intolerance , it appears to get worse as you age .	yeah and you can even get what they call secondary lactose intolerance due to injury of the small intestine .
+201	jamaica ( ) is an island country situated in the caribbean sea .	my favorite place to travel to is jamaica ! it 's an island in the caribbean sea ! have you been ?
+202	no i have n't ! i bet it 's a relaxing place to visit .	yeah , jamaica is a great little place just south of cuba and west of hispaniola ! nice beaches !
+203	is there anything else jamaica is known for ?	well it 's important to know that the island was a possession of spain until 1655 !
+204	interesting , i did not know that . is it an independent country now ?	yeah it was later conquered by england and named jamaica ! now it 's independent !
+205	many species of snakes have skulls with several more joints than their lizard ancestors , enabling them to swallow prey much larger than their heads with their highly mobile jaws .	i saw a documentary on snakes , did you realize they have skulls , that let them swallow prey much larger than their head ?
+206	i know , they are pretty awesome . did you see how they manage to breath while they 're eating ?	wild , their paired organs are n't side by side and they only have one lung , because of their narrow body .
+207	i did not know that . only one lung , that is crazy . did you know that despite how awesome they are , they can n't manage to eat a full grown adult	you hear they can , but i doubted it , but some species have a pelvic girdle and vestigial claws on either side of the cloaca .
+208	i never heard of claws in snakes before . which snake did the documentary talked about ?	there were many , but that elongated , legless body of a snake really creeps me out , so i could n't watch long .
+209	a unicycle is a vehicle that touches the ground with only one wheel .	so something interesting about me . i ride unicycle , a bike like thing with only one wheel .
+210	that amazing , i have no sense of balance so even riding a bike is hard for me	it is surprisingly easy once you get used to it . there are even activities for unicyclists that are similar to mountain biking trials .
+211	the only thing i know about unicycles that they were make in the 1870s	yes there were a couple patents . one by frederick myers and the other by battista scuri .
+212	how do you control it when you hit big bumps with no handle bars	when a rider is on the unicycle it is unusually stable . with a trained rider they are said to be more stable than a bicycle .
+213	sculpture is the branch of the visual arts that operates in three dimensions .	sculpting or sculpture is a branch of the fine arts . it is visual in nature , and it operates in three dimensions . do you know much about sculture ?
+214	no i do n't but i would like to know more	the sculptural process originally was performed in two ways . first was carving that is , the removal of material from a block of wood or stone , for example . the second way is modelling , which is the addition of material ( clay for example ) on another material .
+215	sounds very cool please tell me more about it	in the early period of sculpting , such as the classical period , for the most part materials were limited to stone , metal , ceramics , and wood . however , since " modernism , " the materials used are almost limitless .
+216	very interesting is there anything else i should know about scultping ?	if you are interested in sculpting , and you want it to stand the test of time , the best material to use is stone . other materials , such as wood , perish quite quickly in the process of time . sculpting with pottery is your second best option if you find stone too difficult to sculpt .
+217	i was raised on the beatles as a kid . my parents played them all the time	they 're great ! they started in liverpool in 1960 .
+218	yes and beetlemania hit the states in 1963 . they were everywhere	yes , the primary songwriters lennon and mccartney were highly influential on the evolution of pop music
+219	unfortunately the broke up . their final studio album was titled let it be .	it 's true ! in 1969 , lennon privately told the other members that he was leaving the group
+220	the following year , all four former beatles released solo projects .	that 's true , there seemed to be multiple reasons for the break up
+221	hi , i know far too little , but have always been interesting in bible study .	to start off , the bible is pretty much just a record of the relationship between humans and god .
+222	i believe it also to be a guide for the best way to live our lives .	many different authors contributed to the bible with their sacred scriptures .
+223	i totally agree . though many would disagree , the bible is the only book that contains absolutely no contradictions .	there is some disagreement among different denominations . protestants focus on scripture alone , while roman catholics stress harmony .
+224	this is true . i personally do not believe in denominations . christ established his church . all others are corruptions created by man .	denominations or not , nowadays there is a total of more than two billion christians worldwide .
+225	professing to be christian does not make it so .	this is true , but at least in the us , the majority of people report that religion plays a very important role in their lives .
+226	other types of surfing include knee boarding , surf matting ( riding inflatable mats ) , and using foils .	i love the ocean , mostly because i love to surf ! and kneeboarding
+227	i am not familiar with kneeboarding , what is that ?	knee boarding is alot like surfboarding , but its a special board that ridden in a kneeling stance
+228	that makes sense , is there an advatnage to doing it that way ?	its just a different way of doing things haha , oddly enough surfing refers to the act of riding a wave , regardless of how
+229	that is interesting , i have only tried to surf on those fake machines that make a wave	oh nice ! those are fun ! surfers can actually use bother those and artifical waves made from boats and artificial wave pools
+230	i did not know they had boats to make waves too . i have seen some surfing on tv , it looks very difficult	yeah it is haha , but not as tough as what the native people of the pacific do , they surf on alaia paipo and wooden bark trees
+231	sephora is so pretty i love it	the french chain store ?
+232	its a brand of make up	actually it 's a store that sells 300 brands in the store including there own brand which is made in china .
+233	o wow i had no idea they were so big !	yes , first launched in paris on august 14 , 1969 and have since spread around the world .
+234	yeah i think it is the best in the world !	in july 1997 , mandonnaud and his partners sold sephora to lvmh which is a chinese company that now use cheaper products in the store brand so be careful .
+235	steak is my favorite food i like mine grilled medium rare	the word " steak " would also refer to many different meats like fish or pork .
+236	oh yeah i prefer beef steak but i will eat chicken or pork	how do you eat your steak ? i usually like eating mine with a sauce .
+237	oh no sauce for me but a baked potatoe on the side	do you like to grill , pan fry , or broil your steak ?
+238	i really prefer to grill but will pan fry if its bad weather	i like grilling too , lets you get that good flavor having it over the coals and the fire .
+239	yes but if pan fry you have to get a fast sear on first	that 's true . i also like having my steak with kidney pie .
+240	pizza is a traditional italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven .	i love traditional italian food , especially pizza .
+241	i like pizza to and spaghetti	i just like pizza the most because it can be topped with so many things , like meats and vegetables .
+242	whats your fav toppings	they have got to be pepperoni for meats and mushrooms for vegetables .
+243	man i hate mushrooms lol but pepperoni is de wae	agreed , i love meats like pepperoni and sausage on pizza . mushrooms are great though .
+244	i would spinach or some kind of pepper to replace the mushrroms	i really do n't like that many vegetables on it , like spinach or green peppers . meats are the best toppings to be topped on pizza .
+245	upholstery is the work of providing furniture , especially seats , with padding , springs , webbing , and fabric or leather covers .	i own an upholstery shop where we provide furniture with padding , springs , and fabric or leather covers .
+246	oh really that sounds fun what do you do ?	i 'm the owner of the business and an upholsterer and i have an apprentice called an outside or trimmer .
+247	what does the trimmer do that sounds like a cool title .	he watches and learns while i upholster things like automobile , airplane , and boat seats mostly .
+248	that seems like really hard work , actually having to use your hands and build stuff .	it is pretty hard sometimes . we do everything by hand building each layer up .
+249	how long do it take to master and become amazing ?	it depends on how fast you learn really and how far you 'd like to go in the profession . in 18th century london upholsterers were actually interior decorators as well so that took longer i 'm sure .
+250	i love playing magic the gathering with some friends its really fun	cool , magic : the gathering is a trading card game .
+251	yep its one of the big classics , its super expensive though sadly	that 's too bad . it was created by richard garfield and published in 1993 .
+252	yea it had its 25th anniversary this year	awesome , players can create their own decks , usually 60 cards and no more than 4 of a single card .
+253	yep thats the standard deck style though there are loads of formats	magic can also be played with virtual cards on a smartphone or computer .
+254	yep theres a computer version though its buggy	what is the rarest card you own ?
+255	stamp collecting is the collecting of postage stamps and related objects .	i have a weird hobby . i collect postage stamps
+256	that 's actually really cool ! how often do you actually find new ones worth collecting ?	i was just about to say , i have n't found many new stamps to collect these days in the age of email and digital shipping labels .
+257	i figured things would get a lot harder for people who collected stamps , i mean it makes sense .. what are some of your favorite stamps ?	my favorite stamp , my most prized stamp is one they made for calvin and hobbes as part of a series on newspaper comics . it is one of the only officially licensed pieces of calvin and hobbes merchandise , ever .
+258	holy cow ! that 's so sweet ! having those prized possessions definintely makes hobbies a lot more enjoyable !	i might want to see if i can scare up a few more copies of the stamp , just for posterities sake . i think i felt the same way my grandfather did when he collected thing ( he collected coins , btw )
+259	oh nice , my father collected coins back when i was a lot younger ... but i do agree , you should get a few more copies , never let that hobby die !	collecting stamps a great way to support the post office too , which is semmingly under siege by some stupid law about paying 75 years of retirement benefits or something like that .
+260	a horror film is a movie that seeks to elicit a physiological reaction , such as an elevated heartbeat , through the use of fear and shocking one s audiences .	i really love watching horror movies ! love the fright they give me . do you know of any goods ones ?
+261	yes i like all the halloween movies and all the purge movies	i think i have watched halloween before ! that 's the one that takes place in haddonfield , illinois ! what are the purge movies about ?
+262	purge is scary about one night a year when people can commit any crime including murder without consequences , very scary !	that would be a pretty scary world to live in . do you think it 's better than the film " scream " ? i know it 's a bit dated , coming out in 1996 , but it 's still a great movie .
+263	never saw scream ? i like the silence of the lambs too , that is a real horror flick !	yes ! i love silence of the lambs ! anthony hopkins played his role incredibly well ... he was so creepy !
+264	parenting skills vary , and a parent with good parenting skills may be referred to as a " good parent " .	i am not yet a parent , but it will be interesting to raise a child and learn good parenting skills . i 'd like to be a " good parent " .
+265	i am not a parent yet either but i could n't agree more i definitely think it is important to try and be the best parent you can be !	parenting seems like a process of predictable sequences , but they may turn out different for each child .
+266	that 's a good point , i guess every child is different so they probably each deal with parenting styles differently .	i 've heard that the quality of parenting likely matters more than the amount of time spend with the child .
+267	i guess it is the time you spend with them that counts , having to make the time really important and really appreciating the years you have with them !	that 's very true . in some cases , society also plays an important role in raising a child as well .
+268	that 's true also , i sometimes worry the world we are living in now will be detrimental to the way children are raised . those so much in the world that can have such huge impacts .	i agree , it is hard . studies tend to have trouble identifying the impacts because respondents often respond to feel ideal rather than how things are .
+269	everywhere i went today , people kept mentioning beer . when you are a recovering alcoholic like me , you do n't want people mentioning your weakness all of the time .	man , that is tough . and good on you for staying strong . too many people do too many stupid things on alcohol driving drunk , risky decisions ... too much .
+270	my wife says my weakness is english grammer , but i know it is alcohol . i sometimes crave a drink around holidays ,	understandable . it 's supposed to be " festive " , right ? ! and no doubt on the grammar , as alcohol makes a beeline for the brain ( and other organs , like the heart , liver , pancreas ... ! )
+271	yes , alcohol will kill you . i used to be a scotch drinker , because scotch is not measured by the shot . scotch is a free pour , so you get half a water glass worth . that is about 3 shots for the same price as a shot of tequila .	ah , well , and there you hit on my preferred tipple . tequila . and i had no idea about scotch ! so how do you stay true to not drinking ?
+272	drinking makes it hard to type , so i was forced to choose between using the internet or drinking . hopefully i made the right choice .	you know what ? i 'm cheering for you . obviously your brain is way to beautiful to waste . ( and the spectre of cirrhosis , increased risk of cancer , etc ... good motivation )
+273	thanks . if you try scotch , stay away from the blends like johnny walker , they are like jet fuel . many of the single malt scotches are quite nice and drinkable .	roger that . i 've got scot in my blood , so i 'm thinking my body would rebel against anything less than a single malt .
+274	i was trying to remember the walt disney pictures films i use to watch .	there are many disney movies like cinderella and frozen , actually the studio has produced over 56 films , from " snow white and the seven dwarfs , my personal favorite is moana which came out in 2016
+275	that is a lot of walt disney pictures films . they must be very successful .	they are are ! the walt disney animation studio was founded way back on october 16 , 1923 , its division of the main walt disney studios .
+276	oh wow . anything else you can tell me about their history ?	yes in fact disney was founded on october 16 , 1923 by two brothers by the name of walt disney and roy o . disney
+277	oh okay . i believe i heard those names before . did walt disney pictures start making films that long ago ?	yes the first movie was released all the way back in 1937 , the movie was snow white and the seven dwarfs
+278	i didnt realize it was that old . im sure walt disney pictures has won many awards .	they sure have , walt disney animation took on its current name in the year 1983 .
+279	do you know anything about madonna . i know she was popular a while back if i recall .	yes i own all of her albums . most of her works have been pretty highly praised by many music critics even to this day
+280	cool . i was wondering if she was still relevant . did she make a lot of albums ?	i think she has over 60 albums believe it or not , thats a lot .
+281	unbelievable . she must have a good work ethic .	yea she really reinvented both her music and image while maintaining autonomy within the massive recording industry , which i hear is hard to do .
+282	do you know where madonna grew up ?	she was born and raised in the state of michigan , she moved to new york city in 1978 when she first wanted to get a career in dancing .
+283	oh cool . so she started as a dancer before she began her singing career . im assuming that is how she got discovered .	yep her ability to dance made her a great stage performer as she sung her music , it really made for some great concerts .
+284	my favorite food is burritos . they are delicious .	interetingly burrito is a dish in mexican and tex mex cuisine
+285	is it really an authentic mexican dish ? when were burritos invented ?	the name " burrito " , as applied to the dish , possibly derives from the appearance of bedrolls , related to packs carried by donkeys
+286	that 's interesting i did n't know they were named after that . what is the traditional burrito made out of ?	we also have the burro percher n is a traditional dish in the mexican state of sonora .
+287	what exactly is a burro percheron ? is that a special type of burrito ?	yeah , its a type of . classic burrito , at present it is one of the most popular foods offered mainly at night
+288	as with larger cakes , icing and other cake decorations such as fruit and candy may be applied .	i love making cupcakes so much that i opened my own cupcake business ! i specialize in making cupcakes with decorations such as fruit and candy !
+289	that sounds delicious ! what is your favorite ?	i love chocolate cupcakes decorated with jelly beans ! sometimes i make jumbo cupcakes for 2 people , even though a typical cupcake is a small cake designed to serve one person
+290	that sounds amazing . i be i could eat a 2 person cupcake all by myself . i love chocolate too ! do you make one with filling on the inside ?	i do ! it 's similar to a hostess cupcake with a creme filling , but way better , in my own biased opinion ! lol
+291	those are my favorite actually ! i sometime sneak my them from my kid lunch snacks . i bet your are better though . what a great occupation you chose . i bet you love it !	i do love it ! interestingly , before muffin tins were in plentiful supply many people made cupcakes in individual pottery cups !
+292	that 's funny to brought that up . i had an epic pintrest fail with cupcakes in clay pots it was supposed to look like a potted flower . i bet you would nailed it tho . have you seen these before ?	yes , and they are quite popular with my customers ! english fairy cakes are popular too they are a bit smaller than a normal sized cupcake
+293	cheese is a food derived from milk that is produced in a wide range of flavors , textures , and forms by coagulation of the milk protein casein .	i do not like dairy especially cheese because it is derived from milk that forms by coagulation of the milk protein casein .
+294	i love cheese but not a huge milk fan .	me too . despite this , i can n't deny the fact that cheese is popular among others and hundred of types of cheese are produced from multiple countries .
+295	yea and they can use different types of animal milk like goats and cows	the style , texture and flavor all depend on where the milk comes from and if they have been pasteurized and aging process .
+296	yep , i love soft goats cheese but things like mozzarella and feta are awesome too	some cheese are just simply curdled milk . but some cheese incorporate herbs , spices , or wood smoke as flavoring agents .
+297	oh yea herbal cheese is so good	i also forgot to mention other ingredients like black pepper , garlic , chives or cranberries can be used .
+298	my favorite baseball team is the baltimore orioles . i like to watch the games on tv .	i grew up in baltimore , so they were my team as a child !
+299	cool , my favorite player is cal ripken , jr . he was such an amazing talent .	cal 's the best ! a 19 time all star !
+300	yeah his playing streak will never be broken . i really liked camden yards but have n't been to the new stadium .	camden yards actually is the new stadium , it was completed in 1992 . memorial stadium is the old one , and the one i grew up going to . i hope you make it to the new one sometime , it 's really nice .
+301	oh that 's right . i meant memorial stadium . camden does look very nice .	memorial stadium was a classic ! right in the middle of the city !
+302	hi , i am currently a player in the nba .	wow . the nba is considered to be the premier men 's professional basketball league in the entire world !
+303	yes , it is very difficult to make it to the nba .	i bet ! the nba is one of the 4 major professional sports leagues in the us and canada !
+304	as a player , i constantly have to keep improving .	i can imagine ! nba players are the world 's best paid athletes , so its no wonder it is so competitive . only room for the best .
+305	yes , big money also means big taxes .	eh , that 's okay . people who make that much can afford to pay more taxes .
+306	do you support peta , people for the ethical treatment of animals ?	yes . it 's based in norfolk , va where i am from originally
+307	i support their cause but think their methods can be harmful . how big of an organization is peta ?	i think it has at least 6 million member and about 400 employees if i remember correctly .
+308	that is a pretty big reach , do you know how much money they collect ? it must be in the millions at least .	no not really . i do like their slogan though , animals are not ours to eat , wear , experiment on or abuse or use for our entertainment
+309	yes i generally agree but do n't they sometimes cause a lot of controversy in their protests and campaigns ?	disrupt is good , violence is not . today it foucuses on factory , fur , testing mostly
+310	a dentist , also known as a dental surgeon , is a surgeon who specializes in dentistry , the diagnosis , prevention , and treatment of diseases and conditions of the oral cavity .	my uncle is a dental surgeon , who specializes in the diagnosis and prevention of diseases of the oral cavity .
+311	that 's interesting , it sounds like a pretty hard job to do .	it is , but he has a team full of assistants , hygienists , dental technicians and a dental therapist .
+312	oh , i think a lot of people do n't like going to the dentist , but it 's necessary for health to go from time to time .	it is necessary . it is good to seek oral health services especially if you are having issues .
+313	that 's true , simple cavities can make big problems and cause pain if they 're not treated .	i recently found out that in china and france , the first people to perform dentistry were barbers !
+314	i 'm about to work in the us federal judiciary , do you know anything about it ?	that 's cool ! the federal judiciary of the united states comprises one of three branches of the us federal government .
+315	oh right , that 's the supreme court right ?	yes , the usa is required to have a supreme court by article iii of the constitution .
+316	i see , i did n't realize it was required	yes , the judges are appointed by the president , but the senate must also consent to the choice .
+317	oh wow , what does the supreme court do ?	the supreme court is considered a last resort court .
+318	so they only see the most controversial cases .	yes , by the time a case reaches the supreme court it has likely been in several other federal courts
+319	purple is a color intermediate between blue and red .	do you think people with red green color blindness can see purple ? since it is a mix of red and blue .
+320	that 's a great question . i do n't know the answer , but i 'm not sure exactly what colors color blind people can n't see . do you know ?	i think there are different kinds . some color blind people can n't see colors at all , but most just have a hard time differentiating certain colors .
+321	i see . i knew a teacher i had in grade school who was color blind . it make sense that if they can n't see red or blue they probably can n't see purple either .	my boss is color blind . he can n't differentiate red green . it makes knowing what to do at a traffic light a bit of a hassle . hehe
+322	so color blind people just see black and white when non color blind people see the color ? yeah , that 's pretty important to be able to differentiate colors at stop lights !	color vision is itself a mind bender . do you imagine , for example , that you and i both see the color purple as the same color ? maybe we just have learned it to be purple .
+323	independent music ( often shortened to indie music or indie ) is music produced independently from major commercial record labels or their subsidiaries , a process that may include an autonomous , do it yourself approach to recording and publishing .	independent music is often shortened to indie
+324	i like some indie music . i do n't listen to it that much , though .	it is produced independently from major commercial record labels
+325	yeah . do you know any independent artists ?	yes . the term indie is sometimes also used to describe a genre
+326	yeah , that 's why i thought you were talking about originally , was the genre .	and usually create music that can be categorized into other genre
+327	do you like to go hiking ?	hiking up large mountains or trails is not something i like to do
+328	that 's awesome . i used to hike a lot in boy scouts . what else ?	in the united kingdom hiking is just referred to as walking
+329	ah interesting . you 're from the united kingdom ?	to an extent , i was born there but i live in america
+330	ah cool . i want to hike more now that we 're talking about it .	hiking up mountains and up trails outside is something i do not enjoy , too much effort
+331	historical fiction is a literary genre in which the plot takes place in a setting located in the past .	hi , do you enjoy reading historical fiction , with the plot taking place in the past ?
+332	no , i greatly prefer historical non fiction . when i do encounter fiction , i 'm always looking for a way to relate it to real life .	ah yes , i understand that . many writers of historical fiction are criticized for lack of authenticity in terms of getting accurate details for the time period .
+333	can you think of any historical non fiction books off the top of your head ?	well there is a writer by the name of charles price , who writes historical non fiction set in civil war times .
+334	oh now that might be interesting . that makes me think of old western movies that were mostly fabricated by historically it could have happened .	yes , it takes a lot of research to get details right . the writers really need to do a lot of research . there 's tension between accuracy and a good fictional story .
+335	the yorkshire terrier is a small dog breed of terrier type , developed during the 19th century in yorkshire , england , to catch rats in clothing mills .	my friend has a yorkshire terrier , they are cute dogs
+336	yes they are ! do you know where the breed comes from ?	19th century yorkshire , they were bred to kill rats
+337	oh cool ! i seen a video about that . it was pretty gross . does your friends dog do that too ?	no his yorkshire just runs around trying to lick people , hes a cool little dog
+338	nice , i had a burmese mountain dog but he passed away recently sadly .	oh thats sad i love bernese mountain dogs they are so big and fluffy and gentle
+339	entomology ( ) is the scientific study of insects , a branch of zoology .	i love the study of insects , or entomology in the scientific realm if you will .
+340	ok when did the study of insects start	the study of insects is rooted in prehistoric times . people have ben studying insects since humans have been around . it was n't an official science until the 16 century however .
+341	is n't this same as zoology ?	entomoloy is a branch of zoology . just like all camry 's are toyota 's , but not all toyota 's are camrys
+342	oh good to know	yeah because it is in the scope of zoology , entomology typically crosses with a lot of other sciences , such as molecular genetics , biochemistry , etc .
+343	i used to go to las vegas more often when i lived in los angeles , have you ever been ?	i have never been , but always wanted to go . vegas is renowned for their resorts , gambling , shopping , and fine dining . it sounds so fun !
+344	it is a fun place to visit , do you gamble at all ?	no , but it really does sound fun . one of my friends went to caesars palace and had the greatest time at the casino .
+345	i like to go to the sports book at ceasars palace and bet on football . the bellagio and the wynn also have nice sports books	oh yes , i heard the bellagio is famed for its elegance . i would love to go .
+346	the bellagio is a nice hotel , many of the hotels on the las vegas strip are very nice	not surprising , considering las vegas is one of the world 's most visited tourist destinations !
+347	my dog is the ring bearer at a wedding i 'm an attendant at	a page boy is a young male attendant at a wedding or cotillion .
+348	when did page boys become common ?	there may be many pages for effect at cotillions .
+349	uh huh , anything else interesting about them ?	uh huh is an indie rock electropop band that was formed in january 2007 .
+350	: what about page boys ?	in a formal wedding , the ring bearer is a special page who carries the wedding rings for the bridal party .
+351	a family farm is generally understood to be a farm owned and or operated by a family it is sometimes considered to be an estate passed down by inheritance .	my family had a fish farm
+352	hi ! that is interesting ! what kind of fish ?	we reared salmon and catfish
+353	nice , i like the taste of salmon . do you like to eat fish ?	of course i do , it 's just that i wanted to pursue my own career that 's why i left the business
+354	that makes sense ! new horizons are sometimes needed . i hope to have my own business someday .	fish farming is easy but it requires your full attention . if you need a business that does not need your full attention then you can consider it . game building for example , check buildbox on google :)
+355	wal mart stores , inc . , doing business as walmart , is an american multinational retail corporation that operates a chain of hypermarkets , discount department stores , and grocery stores .	i love walmart ! it is an american multinational retail corporation that operates a chain of hypermarkets
+356	i enjoy shopping there too ! do you know when the first one was opened ?	if i recall that would be october 31 , 1969
+357	how many countries around the world have a walmart ?	it is in 28 and operates sam 's club retail warehouses .
+358	cool , how long after walmart opened did the first sam 's club open ?	im not sure but walmart is the world 's largest company by revenueapproximately us 480 billion .
+359	wow . i 'm curious where it got its name from ?	it is the original owners names . it is a publicly traded family owned business
+360	india , officially the republic of india ( " bh rat ga ar jya " ) , is a country in south asia .	have you heard of india ? it is a country in south asia
+361	yes i have . i have seen movies that show it , watched documentaries that travel through it but can embarrassingly admit that i know nothing about it . where is it located ?	well , its the seventh largest country by area located in southeast asia !
+362	wow and whats the population density like . i heard that its quite over populated ?	yes over 1.2 billion people live there ! sadly , i think that has resulted in many problems for the country
+363	wow that is a lot of people . can you tell what problems they are facing due to this over population ?	for one , overpopulation has resulted in the degradation of the capacity of the environment to give support to the population .
+364	oh yeah the more people the less resources . whats the main industry in india , is it textile ?	mainly fishing , since it is bounded by the indian ocean on the south and the arabian sea on the southwest .
+365	in 1909 , automobile race pioneer barney oldfield was the first celebrity to endorse pepsi cola , describing it as " a bully drink ... refreshing , invigorating , a fine bracer before a race . "	i love me some pepsi cola ! i like it so much better than coke .
+366	i can see why , coke is great but it is really really sweet and hard to drink a lot of .	pepsi started out being called " brad 's drink " in 1863 ! i thought that was pretty crazy .
+367	really ? that 's such a strange name !	there 's also a drink called pepsi max that 's low calorie and sugar free that 's an alternative to diet pepsi .
+368	i quite like diet pepsi , i drink it more than any other soda .	speaking of crazy names , diet pepsi started out as " patio diet cola " in 1963
+369	when i was younger i wanted to go to law school .	law school can be long and hard . why did n't you follow through with your dream to become a lawyer ?
+370	because i did not want to go through all the schooling ? do you know how long law school is ?	most law schools only offer a 3 year program , but some schools offer an accelerated jd program
+371	do you know how many lawyers are in the united states ? i figure it is a pretty large number	i do n't know , a whole lot though . you can get a master of laws which is ll . m . those are the smart lawyers . also a doctor of juridical science j . s . d . , even smarter
+372	i always wanted to be a prosecutor . do they have to do additional schooling ?	no , same amount of school . a lawyer is anyone who practices law , an attorney or a counselor , a solicitor or a chartered legal executive . good career to have an many avenues to go in to .
+373	are you a vegetarian ?	i 'm not currently but i was previously . i think vegetarianism has its roots in ancient india and greece .
+374	i think so too	in both cases i believe it was based on the idea of nonviolence towards animals and it was even promoted by religious groups .
+375	yeah , i dont really care about the religious aspect , but i definitely care about animals .	it 's definitely good not to inflict unnecessary violence in my opinion . it 's too bad vegetarianism is so rare , only 0.5 4 of the western world is vegetarian based on 2006 data .
+376	thats so few people . kind of ridiculous in this day and age .	i do n't have the current data , but i think it 's growing in popularity as people consider the health related and environmental benefits as well .
+377	im sure it is . the internet is raising people 's awareness of animal rights issues .	definitely , the animal rights movement is growing , and is actually one of the few examples of a movement created by philosophers .
+378	fashion design is the art of application of design and aesthetics or natural beauty to clothing and accessories .	fashion design involves the application of design to clothing and accessories .
+379	i watch a couple of fashion design shows .	oh cool , fashion designers work in many ways designing things such as bracelets and necklaces .
+380	i have friends who design bracelets .	yes , the fashion designers also design clothes that are functional too .
+381	that 's true , though i tend to like seeing the really out there stuff they design .	the fashion designers have a wide range of materials to work with to suit many situations .
+382	and sometimes , they use things that are n't even fabric ! it 's amazing .	fashion designers designs are utilized by manufacturers .
+383	pecan pie is a pie of pecan nuts mixed with a filling of eggs , butter , and sugar ( typically corn syrup ) .	loves me some pican pie ! so simple yet so good . just pecans , eggs , butter , and sugar !
+384	are there different ways you can make it ?	yes , variations may include white or brown sugar , sugar syrup , molasses , maple syrup or honey .
+385	i love the center gooey part , what is that ?	the filling is typically eggs , butter and sugar
+386	is there a way to make it healthy ?	well natives were quite healthy , and they ate picans regularly . the pie however traces back to 8000 years ago .
+387	i used to have a horse , but i do n't anymore . i think i might like to get one again .	i used to have one as well . they are more work than people think .
+388	that 's true . they have to be fed , watered , and groomed , plus you have to make sure they stay in their enclosures .	there are some wild horse populations near me , on north carolina s outer banks .
+389	i think i read some very famous books about them , they 're by marguerite henry .	i loved margeurite henry s books when i was young . misty of chincoteague was one of my favorites .
+390	i really liked that one too , but my favorite of hers is king of the wind . i still have a copy of it now .	that was a good one . i think it was about the godolphin arabian , which was the foundation for the modern arabian breed .
+391	in the united kingdom , they are known as biscuit barrels or biscuit jars .	i have seen some really cool cookie jars lately , but i learned in the uk they are called biscuit jars or barrels .
+392	why do they call them biscuits instead of cookies ?	well the british cooking writer elizabeth david uses it in a section called soft biscuits . then has bread and tea cakes in a different part , so there is another meaning .
+393	i see . i love the british baking show on pbs . they cook all sorts of interesting things .	i have heard of that show . i heard they moved it from bbc two to bbc one because it was so popular after the first four seasons .
+394	i did not know there were two channels of bbc ! that is interesting . i have only seen their news shows	yes . it has actually been around since april 21 , 1964 .
+395	wow . that is towards the very beginning of when tv first started .	it certainly has been around longer than some other well known channels , like mtv . they were n't around until august of 1981 .
+396	battlestar galactica ( bsg ) is an american military science fiction television series , and part of the " battlestar galactica " franchise .	i love the show battlestar galactica ! it 's a military , science fiction show . have you seen it ?
+397	i 've seen maybe 30 seconds of it at a time , lol . tons of my friends have , and they adore it . why do you like it ?	it 's so fascinating ! it 's set in a distant star system where a group of people live on a group of planets called the twelve colonies . i love sci fi stuff !
+398	me too ! i 've been more of a star trek fan for most of my life , but i 'd be open to trying it if you 're recommending it !	you should ! it was actually given a spot on time 's 100 best tv shows of all time ! it 's a must see !
+399	wow , no kidding . i saw a parody summary of it once where it was just a bunch of people saying " i 'm a cylon " over and over . accurate ?	accurate . the cylons are an android race of their own creation who were at war with the twelve colonies .
+400	and it 's supposed to be like a big reveal that a character has been a cylon the whole time , right ?	i do n't want to spoil that for you ! you have to watch all four seasons on the sci fi channel to find out !
+401	tom selleck had a great mustache !	i too have a moustache . i use moustache wax for styling it .
+402	i find the wax a little greasy .	i sometimes use beeswax . since it consists mainly of esters of fatty acids and long chain alcohols , it is somewhat less greasy .
+403	that is good to know . i may try it when i grow one again .	they 've found evidence of moustache 's dating all the way back to the 4th egyption dynasty in 2550 bc .
+404	i would imagine they date back to the earliest humans !	well it was technologically possible to shave away all but the moustache all the way back in neolithic times .
+405	that is what i mean , particularly since more hair was the default in that era .	they would have used a stone razor to do that . that seems a bit risky just for a moustache .
+406	i try to take care of my skin and not get too much exposure to the sun . do you take care of your skin ?	i do ! i make sure to drink lots of water and eat nutritious food , as well as moisturize and avoid sun exposure .
+407	should i get my skin checked regularly by a doctor ?	yes , dermatologists is a medical discipline that deals with skin conditions and they can help diagnose skin diseases and cancer
+408	is skin cancer common and easy to prevent ?	sunscreens are considered medications which are separate from skin care products and can prevent cancer
+409	that is good to know . what does water do for your skin ?	water helps your skin stay hydrated !
+410	a pancake ( or hotcake , griddlecake , or flapjack ) is a flat cake , often thin and round , prepared from a starch based batter that may contain eggs , milk and butter and cooked on a hot surface such as a griddle or frying pan , often frying with oil or butter .	wow , love that taste of pancake made by mama , its a flat cake , often thin and round , prepared from a starch based batter that may contain eggs , milk and butter and cooked on a hot surface
+411	you mean aunt jamama 's pankakes	well do n't know about that , american pancakes are similar to scotch pancakes
+412	scotch as in scottish , i like scottish meat pies and i love a good pancake	interestingly , evidence suggests that pancakes were probably the earliest and most widespread cereal food eaten in prehistoric societies .
+413	so cave men also liked pancakes i wonder if they had syrup	more so , a " cr pe " is a thin breton pancake of french origin cooked on one or both sides in a special pan or crepe make
+414	i like french toast but i had no idea they also made pancakes in france	also , from the southeast europe is a " pala inke " , a thin moist pancake fried on both sides and filled with jam , cheese cream , chocolate , or ground walnuts , but many other fillings.and taste good
+415	country ( or country and western ) is a musical genre that originated in the southern united states in the early 1920s .	this is a is a musical genre that originated in the southern united states
+416	what genre is it ?	sorry , i though you know what we are working on , it 's country and western music
+417	oh ok , has that genre been around a long time or is it fairly new to the music scene ?	sorry , i though you know what we are working on , it 's country and western music
+418	do you know a lot about the genre of country and western music ?	considering the fact that it takes its roots from genres such as folk music , i would say its been around for a while
+419	what else do you know about this style of music ? i like a little country but not much	yea , it 's individual components consists of ballads and dance tunes with generally simple forms , folk lyric
+420	that 's cool . it seems to be very popular with a lot of people that live in my city . there are tons a radio stations that play it	before 1940 , the direction almost tilted in favor of hillbilly music then country gained popularity and became what it is today
+421	divorce , also known as dissolution of marriage , is the termination of a marriage or marital union , the canceling or reorganizing of the legal duties and responsibilities of marriage , thus dissolving the bonds of matrimony between a married couple under the rule of law of the particular country or state .	unfortunately i recently got divorced and i want to get back to having a social life . do you have any advice or tips ?
+422	sorry to hear about your divorce . what type of things do you enjoy doing ? do you have a hobby ?	i love watching tv . friends is my favourite especially rachel and monica . but thats not much of a hobby really . after my divorce is settled i will have to look into finding some new ones .
+423	watching tv may not be the best medicine when moving on from a divorce . this is a time to rediscover you and the things that you like to do .	i know the divorce just took so much out of me . we realised we just were not compatible anymore . thinking about when i was younger i did love dancing and played squash and the cello ? ?
+424	dancing that right there will give you an outlet to have a social life . and have you ever considered playing the cello again ?	i loved the cello it is such a wonderful string instrument tuned in perfect fifths . oh thank you , you have got me thinking about all the options now !
+425	that 's good because there 's always options . one thing i hear about marriage is that you forget that you are still an individual . now you can take care of you .	that is so true . both spouses lose their independence and when it doesnt work there are clashes , i am going to be me again ! !
+426	sport utility ( vehicle ) , suv or sport ute is an automotive classification , typically a kind of station wagon estate car with off road vehicle features like raised ground clearance and ruggedness , and available four wheel drive .	sport utility vehicles are very useful for moving stuff and using as a car
+427	is n't that what suv stands for ?	yep , sport utility vehicles are very good cars for people with families but are expensive
+428	i 've noticed that too , they can get really expensive sometimes .	most suvs are just built on truck chassis
+429	that 's interesting , they must be versatile .	sport utility vehicles are very versatile
+430	i just love the world of finance . there is so much money to be made at your fingertips .	yeah well finance is a field that deals in the world of investments .
+431	how long do you have to go to school to get into finance ?	2 to 4 years . it is technically the study of dynamics of assets and liabilities over time under conditions of different degrees
+432	finance	some call it the science of money management .
+433	i wonder how many different conditions that market can be in .	the goal of finance aims to price assets based on their risk level
+434	i 'm assuming it 's better to get low risk assets .	yeah most questions in personal finance revolve around : personal finance may involve paying for education and goods like cars and stuff .
+435	i just started working at an amazon warehouse . i like it so far !	it is crazy how the company has grown . amazon started as an online bookstore and slowly started selling other things .
+436	it is crazy that a bookstore can take over the online marketplace like they have	yes , it now has grown to be the largest internet retailer in the world !
+437	thats impressive ! what year was it founded ?	it was founded on july 5 , 1994 by jeff bezos
+438	wow ! i didnt know it had been around so long .	yes ! now it has its arms reach to many other countries . amazon now has retail websites for the us , the uk , and the netherlands just to name a few places
+439	its hard to believe that everyone can just shop from their homes !	and just for giggles , amazon also offers international shipping , so you can pretty much order anything .
+440	yellow is the color between green and orange on the spectrum of visible light .	yellow is the color between green and orange , it is not my favorite color .
+441	i like yellow too	the wavelength of yellow is roughly 570590 nm .
+442	that is cool . i also love coldplay 's hit song called yellow	that is a great song , it is off their debut album actually , called parachutes .
+443	that is true . you are also a coldplay fan like me	yeah i like quite a few coldplay songs , viva la vida or death and all his friends was my favorite album , it came out in 2008
+444	i love eating bagels ! my favorite are blueberry bagels ! do you enjoy them ?	that 's what i eat : blueberry . i think the blueberries provide relief from the density and chewiness of the bagels .
+445	i agree ! do you make them from scratch or do you buy them from the store ?	i 'm afraid i add to the 70 million in revenue that lender 's bagels gets . i 'm from the south , so i do n't know how to make bagels . donuts , yes .
+446	whoa ! 70 million ! i do n't think i have ever tried a lender 's bagel . where are they from ?	it 's a company started by murray lender ( died 2012 ) in connecticut .
+447	i will have to try it ! i particularly like " killer dave 's " bagels . have you tried that brand ?	never heard of them ! are they the same as davidovich bagels that are hand rolled ?
+448	i have never had a bone fracture have you	yes , i once had a damage in the continuity of the bone .
+449	oh that sounds painful , what is the continuity of bone	it just means the full bone is fractured , which may be the result of high force impact or stress
+450	oh i bet that takes longer to heal than a compact fracture	i agree , the damage to adjacent structures such as nerves or vessels makes it even longer to heal .
+451	i could not imagine the pain of damaging a vessel	yea , it was extremely painful . but now the natural process of healing begins so i have to wait a few months .
+452	my brother just broke his arm , i wonder how much time he will have a cast .	a bone fracture is a medical issue when there is damage to the bone continuity .
+453	how do bone fractures heal ?	the blood then tends to coagulate to create a blood clot that is between the broke fragments .
+454	but what happens to the blood clot if the bones move ?	then ithin a few days the blood vessels expand into a jelly like material of a blood clot .
+455	ok , so why people do have to wear a cast when they broke a bone ?	then the new blood vessels carry phagocytes to the injured area which kick out all of the non viable material .
+456	the patty may be pan fried , barbecued , or flame broiled .	i like burgers , do you ? i like mine flame broiled . but they can be pan fried or barbecued too .
+457	i do not , but i 'll eat some french fries .	i love potatoes too , they 're called finger chips in india too .
+458	i wonder if they are made the same there .	i do n't know . the term burger can also be applied to turkey burgers , or even veggie burgers .
+459	i have heard that before . i do n't eat meat or veggie burgers .	well you 're in the wrong place then , lol there are many international and regional variations of the burger .
+460	yes i know ! i am not with the majority over here either .	is over there germany . the term comes from hamburg , germany i believe . it 's the 2nd largest city there .
+461	veganism is one of the best and healthiest diets in my opinion	i have read it can reduce risk of some chronic diseases
+462	it can also make your metabolism faster , and you become healthier overall .	some people do n't recommend it for children , adolescents or during pregnancy , though .
+463	i personally think it can be really good for those people aswel if there is balance	for some people it is more to do with ethical reasons , out of care for animals
+464	yes ! this is why i think it 's a good diet , because it is helpful for everyone !	and beyond that , some vegans think it helps prevent environmental damage
+465	environmental damage can be prevented with veganism .	i think a vegan diet needs to be well planned , however
+466	i think miami might be a cool place to live .	yes i like it because it 's a port city and i am into exporting of cars so i consider it cool
+467	yeah , i did n't know that there was a port there , although given the location it 's hardly surprising .	it is the head quarters of miami dade county and record has it that it has the second largest population in the usa so you sure will meet all kinds of people there .
+468	i 'm sure there will be all sorts of people there . i 'd be especially interested in learning more about cuban culture .	definitely , it has become a global city as well , because it was rated in 2010 as the 7th when you talk about business , cultural experience amongst others
+469	it really sounds like a fun place to be . i know a few people who have been there before , and they said that the beaches were amazing , although the urban sprawl is not to everyone 's liking .	yes it does really sound fun . another amazing fact is that forbes magazine rated it as the cleanest city because of all the initiatives for clean air and other similar programs
+470	was that the cleanest city in the u . s . or globally ? i have to imagine that some european cities would rank higher on a global index .	yes , it 's just the usa and it was ranked for for its year round good air quality , vast green spaces
+471	i love pizza .	me too . pizza is one of the most traditional italian dishes .
+472	how long has it been around ?	the term " pizza " was first identified in an old latin manuscripts from the 10th century .
+473	wow , i did n't know pizza has been in existence for so long .	i just love that for pizza you customize it with vegetables , condiments , and meats .
+474	yeah there are so many different ways to make pizza . what 's your favorite topping ? i like mushrooms best .	i really like a basic traditional yeasted flatbread pizza topped with cheese and tomato sauce .
+475	flowers are beautiful and often scented . do you have any favorites ?	do you know flower sometimes known as a bloom or blossom
+476	i did not know that . blossomed flowers can be so beautiful .	flower is an reproductive structure in flower plant
+477	that is good to know . i was not aware . are ferns considerably different than plants ?	some diaspores without fertilization are from flower
+478	that 's good knowledge to have . i think that most flowers are pretty , with obvious exceptions	the flower develops into fruit containing seeds after fertilization
+479	flower reproduction has always interested me . seems to fascinating !	effect of reproduction are usually by providing a mechanism for the union of sperm with eggs .
+480	have you ever watched friends ?	friends is an awesome comedy . i used to watch it like every week . joey is the best character . it 's an american television sitcom created by david crane back in 1994 .
+481	yeah i did n't watch it much bck in the day but i watched it when it all went to netlfix .	do you like the fictional character monica geller from friends ?
+482	monica was kind of the worst ! joey was of course the best .	the other fictional character rachel green is probably the best girl on the show . or rachel . monica can ruin things sometimes haha .
+483	rachel is definitely the best .	david crane did a good job with actress jennifer aniston . the show had like 236 episodes it 's crazy .
+484	yeah that is crazy , who is david crane ?	a crazy guy . crane began developing friends under the title " insomnia cafe " at first .
+485	over time , minimum wages came to be seen as a way to help lower income families .	do you feel that a family can afford to live on minimum wage ? i have mixed feelings
+486	it is absolutely possible , it is just that it requires strong self control and good financial behaviors . generally though , people who have self control and good financial mindsets can do better than minimum wage .	i agree . i feel like living at such a low wage has so many drawbacks people need to figure something else out
+487	agreed . the problem i see is that people have a sense that their poor finances are someone elses fault than their own . this attitude ensures that they will n't apply the discipline necessary to help themselves .	do you support a wage increase ? i 'm against it but supporters say it will reduce poverty . i feel like it would give people a reason not to try to better them self
+488	i do n't think it will reduce poverty at all . i think it will just move the bar on what begets poverity .	i agree . i can understand poverty in a developing country but america offers jobs and education .
+489	minimum wage advocates seem to believe ( incorrectly ) that people in the marketplace will n't change their behaviors to work around the minimum wage . humans are dynamic and adaptive , all you 're doing is trying to stop a river with a single post .	they are the same people that keep throwing people at a problem and never fixing it . i work for one of those people . i would like to see an honest study on the current living wage .
+490	my dad is a butcher and i want to learn	that 's interesting . does your dad slaughter animals , dress their flesh , sell their meet , or some combination of the three ?
+491	he cuts them for the local market	i see . many butchers work for a supermarket , grocery store , or butcher shop , though some may be self employed
+492	he works at a plant close to his home	that 's convenient . it would be cool to work in such an ancient trade
+493	yeah it has to make you feel cool to process the meat	some areas expect a three year apprenticeship to be a butcher . did your dad have to do that ?
+494	im not sure he grew up doing it	oh wow . does he have a trade certification ? many jurisdictions offer those for butchers
+495	grand theft auto is an open world action adventure video game developed by dma design and published by bmg interactive .	i like to play video games .
+496	cool , what kind of video games do you like to play ?	i love grand theft auto .
+497	that 's on xbox right ?	it was originally released for ms dos .
+498	interesting . do you play video games on other types of systems ?	no , only on the misrosoft disk operating system .
+499	young frankenstein is a great movie	yes , it 's a 1974 comedy horror film . mel brooks directed it and gene wilder starred as the main character , dr . victor frankenstein .
+500	gene wilder was awespme in it	he was , wilder and brooks wrote the screenplay too .
+501	oh wow really ?	yes , and most of the lab equipment were the props from the 1931 frankenstein movie
+502	wow thats really cool	brooks shot it in black and white because he wanted it similar to earlier films .
+503	oh really i thought it was more of a comedic effect	that was why , and it was actually ranked number 28 as one of the 50 greatest comedy films of all time
+504	nashville ( ) is the capital and most populous city of the u . s . state of tennessee and the seat of davidson county .	nashville , tennessee is a place ive never been too but its a very populous city
+505	i 've never been to tennessee in general .	nashville , tennessee is at the seat of davidson county
+506	cool , i really do n't know much about counties over there .	nashville , tennessee is located on the cumberland river
+507	i would really like to visit that river someday .	it is also in the north central part of the state
+508	cool , how big is nashville then ?	nashville , tennessee as you might guess is a us state
+509	with an estimated 2016 population of 8,537 , 673 distributed over a land area of about , new york city is also the most densely populated major city in the united states .	i recently visited new york , a city with an estimated population of 8.5 million .
+510	i love new york , but it is very busy	indeed , new york is a melting pot of different cultures and over the last decade is growing faster than the region .
+511	yes , new york is a melting pot of dcultures which means a melting pot of food ! new york has so much to offer .	exactly , new york has alos a great music scense which has gained a near global audience .
+512	i agree , people travel to new york to make a living in a wide variety of fields .	i like manhattan the most , its the most densely populated area of new york has has a lot of tourist attractions . e . g time square
+513	manhattan is great , it is definitley a must see city in new york . i also like the culture in brooklyn .	yes , brooklyn its new york 's fourth smallest country by land area but the second largest among the cities five boroughs .
+514	it is related to philately which is the study of stamps .	stamp collecting is a really good hobby . there 's also philately which is the study of stamps .
+515	funny name philately , i sort of collected when i was a kid	it is strange ! the word is the engilsh version of the french word " philat lie " .
+516	does the word directly mean stamp collecting or is it generally means collecting	i 'm not sure , but it was coined in 1864 by georges herpin .
+517	interesting that the english did not use their own word instead of using a french word	i have no idea why . stamp collecting has also been one of the nation 's most popular hobbies since the late 1900s .
+518	i think every body at least tried stamp collecting or coin collecting at one point in their lives	i have definitely had a coin collection . my grandfather gave me a lot of mint coins that were never touched .
+519	have you ever been snorkeling ?	i have been snorkeling in the bahamas . it 's fun but i do n't enjoy the masking fogging up .
+520	i 've never been was it hard to do or scary ?	no , it 's not scary at all . but you do have to be in a tropical location to really enjoy it .
+521	my girls have played around the jetties at panama city beach and looked at some fish through their goggles but i guess it 's not the same thing	panama city is nice due to it 's white , sand beaches but the snorkeling is best over a tropical reef .
+522	i think i might be worried about bigger fish coming to a reef for a snack lol !	coral reefs have such a complex biodiversity to them that you 'll get all sorts of creatures . my favorites are the sea turtles .
+523	i would love to see the sea turtles up close i have some friends that swam with them in hawaii	sea turtles are great , there are seven species of sea turtle .
+524	i am pleased that hybrid vehicles have been invented to save on carbon emissions	yes , the use of two types of power really cuts down on carbon emissions .
+525	what are the two types of power ?	it depends , but some are combustion with gas and battery electric
+526	are they affordable for the average person ?	they can be costly , but the tax incentives like a tax credit can offset that cost .
+527	that is a good point . what else do you know about them ?	they were first designed . in 95 by thomas muller
+528	i used to crochet when i was a kid ! do you crochet ?	i love to crochet . are you aware the word crochet is derived from the old french ?
+529	i had no idea ! what does it mean ?	crochet is a diminutuve of " croche " , and also related to the germanic ' croc ' , which incidentally both mean " hook " .
+530	well , since one uses a hook , that makes perfect sense ! have you ever made anything successfully crocheting ?	i have crocheted several items using tunisian crochet ( also known as afghan crochet ) , such as a wedding dress , a pair of slippers for my cat , and a hat for my husband .
+531	wow that sounds exciting . how long did the hat take to make ?	the hat took some time , especially since the yarns are switched back and forth to create motifs .
+532	the first generation iphone was released on june 29 , 2007 , and there have been multiple new hardware iterations with new ios releases since .	what kind of phone do you use ? i love my iphone . i got the first gen version back in 2007 and have stuck with iphone ever since .
+533	i have an iphone as well . i really like it too !	i have the iphone 7 . have n't made the move to the iphone 8 . i 'm thinking about getting the plus or the iphone x that came out last year .
+534	i think mine is just the 6 but i like it and so i 'm still good with it .	i try and stick with what i 've got fr as long as i can . the x sounds so cool though . apple is using it to show what they think is the technology of the future , like wireless charging .
+535	yes , i 'm sure it has some fantastic features . i used android phones for a long time , so this one is my first iphone .	oh , my husband loves the androids . he goes with whatever the latest is from samsung . he prefers the mobile operating system that google came up with for android .
+536	goodfellas ( stylized as goodfellas ) is a 1990 american crime film directed by martin scorsese .	goodfellas is one of my favorite movies . it is a 1990 crime film directed by martin scorsese .
+537	i 've never seen that one before , what 's it about ?	it narrates the rise and fall of mob boss henry hill and his friends and family .
+538	oh cool , so if i liked the godfather i 'd probably like it ?	yes you would . it stars robert de niro , joe pesci , and ray liotta . great star power .
+539	i love joe pesci , he 's a great actor .	he is amazing . i like him in " my cousin vinny " and " home alone " .
+540	leonardo di ser piero da vinci ( 15 april 14522 may 1519 ) , more commonly leonardo da vinci or simply leonardo , was an italian renaissance polymath whose areas of interest included invention , painting , sculpting , architecture , science , music , mathematics , engineering , literature , anatomy , geology , astronomy , botany , writing , history , and cartography .	do you love painting ? commonly leonardo da vinci or simply leonardo , was an italian renaissance polymath whose areas of interest included invention , painting , sculpting ,
+541	i 've always wanted to try but stuck with drawing all my life . da vinci sounds like a very talented artist .	he has been variously called the father of palaeontology , ichnology , and architecture ,
+542	what types of inventions did da vinci come up with in his life ?	he has been credited with the inventions of the parachute , helicopter and tank , h
+543	that 's incredible . some of these inventions were n't even created until after his death like the helicopter , right ? i wonder how he had such wisdom .	many historians and scholars regard leonardo as the prime exemplar of the " universal genius " or " renaissance man " ,
+544	i can n't wait for the 2020 olympics in tokyo , i 'd love to go to tokyo one day .	i would love to go also . it 's a major international multi sport competition where the best athletes compete .
+545	absolutely , and tokyo is such an interesting place , and has so many people there , it must be so packed all the time .	yes , the greater tokyo area is the metropolitan area in the world with the most population .
+546	that 's wild , how many people are there roughly if you know ?	in 2016 the united nations estimated the population to be about 38 million !
+547	that 's crazy ! that 's almost five times as many people in my entire state . have you ever heard of akihabara ?	yes , is n't it considered to be an otaku cultural center and a shopping area for anime , manga , video games , and computers ?
+548	yeah that 's right , it 's probably going to get a lot of business when the olympics happen . i wonder how many events are at the olympics , seems like so many .	you know i 'm not really sure .
+549	sleep is a naturally recurring state of mind and body , characterized by altered consciousness , relatively inhibited sensory activity , inhibition of nearly all voluntary muscles , and reduced interactions with surroundings .	sleeping is one of my favorite things to do . it 's a naturally occurring state of the body where there is inhibited consciousness and lack of interactions with your surroundings .
+550	i love to sleep , i wish i had more time to do so though !	sleep is very important . while sleeping the body systems are in an anabolic state which helps to restore the immune , nervous , skeletal , and muscular systems .
+551	yeah it is a great way for us to recover from everything we do throughout the day , it 's really interesting when you think about it .	it 's also interesting that our body has an internal clock called a circadian clock that promotes sleep at night time .
+552	yeah it is , i wonder how people deal with the long days and nights near the poles .	they probably have a non 24 hour sleep wake disorder which messes with the natural sleep cycle .
+553	yeah i hear that also causes issues with depression .	yes when someone has an irrecgular sleep wake rhythm it can cause them to take naps throughout the day and not have a main sleep time .
+554	i am a night owl , i can n't seem to make myself go to sleep early , i always end up staying up really long .	me too ! i am the total opposite of an early bird who loves to wake up early ! i get stronger as the night grows ! lol
+555	i understand , it ' hard to wake up early during the day .	in scandanavia , they refer to early birds as a people and night owls as b people ! lol i wish i knew where they came up with that !
+556	i never heard of it , i kind of like early bird and night owl phrases more to be honest . i 've always wanted to visit scandinavia .	interestingly , the term night owl refers to the primary nocturnal habits of the owl ! haha
+557	yes i always thought so , just like early bird refers to bird that wake up right when the sun rises on the horizon .	many night owls have difficulty adopting normal sleeping and waking habits and develop a sleep phase disorder .
+558	have you ever been to portland , maine ? i know about porland or but i didnt know there was one in maine	no , i have n't . i did n't realize there was one in maine either . apparently it is the most populous city in the state of maine .
+559	oh wow , i wonder why you never hear about it then !	apparently it is home to over a half a million people , which is more than one third of maine 's total population . so it must be a good city to live in .
+560	i suppose so . i wonder if there are any strange or weird things about it . or anything particularly unusual about it	i was reading that they are heavily dependent on tourism . the old port district is a popular tourist destination
+561	oh okay that would make sense . are they big on seafood there ?	well it says that the port of portland is the largest seaport in new england . so i would say probably yes
+562	one of my favorite movies is disney 's the little mermaid . it was released in 1989 . have you seen it ?	i have seen it , people say it started the era of the disney renaissance
+563	i was 10 when it was released and it was one of the first movies i saw in the theater . i remember being very frightened of ursula !	not to make you feel old , but that movei caame out in 1989 , almost 30 years ago ! it made 84 million at the box office , which would be a flop by today 's standards !
+564	amazing how time flies ! back then i believe it was considered a good box office . i remember there was some controversy about hidden scenes that animators put in .	i am sure , i never heard of those scenes , but for a fantasy musical film , anything could be controversial in comparison , especially from disney
+565	it is amazing how animated movies used to be drawn from hand . now computers makes the job so much easier !	i know , recently that game cuphead showed how hard that was , drawing each frame by hand , that is an incredibly tedious animation style !
+566	xbox is a video gaming brand created and owned by microsoft .	i am intrested the video gaming
+567	what kind of video games are you interested in ?	i like it video games
+568	oh which ones do you play ?	hay day . and race cars and bikes then ext ..
+569	ok i like halo its a lot of fun	ohh ok
+570	special education ( also known as special needs education , aided education , exceptional education or special ed ) is the practice of educating students with special educational needs in a way that addresses their individual differences and needs .	i love being a special education teacher , i get to address students individual needs !
+571	sounds interesting ! how did you come into that ?	well i was educated in this way , and i wanted to give back using individually planned and systematically monitored arrangement of teaching procedures .
+572	that 's so neat ! what is the most difficult part ?	well it 's hard sometimes seeing the kids with learning disabilities ( such as dyslexia ) , communication disorders , emotional and behavioral disorders ( such as adhd and add ) .
+573	yea , i bet . what 's the most rewarding ?	seeing them benefit from additional educational services such as the ones i provide !
+574	no passages used	have you ever been to tokyo ?
+575	no i have not ! i 've never been to east asia . have you ?	i have been to a few of the 47 prefectures in japan , but have n't been to the capital ( tokyo ) yet . i wish !
+576	what are the 47 prefectures of japan ?	japan has 47 prefectures kind of like how we have 50 states .
+577	oh okay got it ! what did you do while you visited ?	i visited the 4 largest islands : honshu , hokkaido , kyushu , and shikoko .
+578	how was the food in japan ?	it was amazing , of course :) nothing like what you get here .
+579	i was born in pittsburgh .	cool , i 've always wanted to go there ! it is a city in pennsylvania and a county seat of allegheny county .
+580	i have not been there since i was 2 years old . i do n't remember anything about it .	well one thing is that it is currently the 63rd largest city in the us !
+581	how many people live there ?	as of 2017 , it was 305,704 people within the city limits .
+582	what are some cool things to see there ?	there 's plenty , such as 30 skyscrapers , two inclined railways , and a pre revolutionary fortification .
+583	i love role playing . do you know anything about that ?	people act out roles with a narrative through character development
+584	yes that is true . can you tell me more about it ?	the original , known as tabletop , is mainly conducted through discussion .
+585	what kind of tabletop roleplaying exists ? is that like dungeons and dragons ?	yes , there 's a game master that decides on the rules .
+586	role playing game	but several types exist such as text based and mmos .
+587	i love tea it is so good	yes tea is wonderful . regular tea is made from the leaves of the camellia sinesis plant , which is an evergreen from asia .
+588	i think earl gray is the best in my opinion	that is a good one ! tea is popular that it is the most widely drunk beverage after water .
+589	sounds good to me !	there are so many types of different teas like darjeeling , and chinese greens . they have so many different flavors too .
+590	yeah you get so many to pick from	tea was originally uses as a medicinal drink back in the day rather than an everyday drink .
+591	the buffalo bills are a professional american football team based in the buffalo niagara falls metropolitan area .	the buffalo bills are an interesting football team .
+592	yeah ? i do n't know much about them . why are they interesting ?	well even the name is interesting as well as how they are from the niagara falls area .
+593	hm , yea you would think they would call them the niagara buffalos or something like that .	yeah , they also come from the metropolitan area of buffalo .
+594	okay cool . do you know when the team first formed ?	the bills actually first began to play in 1960 .
+595	so old ! the players must be having trouble playing now ? they must be in their 70s ?	well the bills must have different players by now because of that haha .
+596	a food truck is a large vehicle equipped to cook and sell food .	a food tuck is a vehicle that cooks and sells food
+597	i love food trucks , they 're so convenient . i especially love taco trucks .	recently , food trucks have been offering more ethnic menues .
+598	i hope to see more of them ! how long have food trucks been around ?	since 1866 a man fitted an old army wagon and stocked it with food to sell .
+599	i wonder what kind of food they sold on that food truck ! what else can you tell me about them ?	his name was charles goodnight . he stocked the wagon with food and medical supplies
+600	one of my favorite musician is ed sheeran !	do you like ed sheeran ? he 's from england .
+601	yes , i enjoy listening to his music . i had no idea he was from england .	oh yeah , his songs like thinking out loud are actually released in the uk before here .
+602	oh that is so cool ! i love his song perfect .	do you want to know something crazy ? he was raised in framlingham , suffolk which is only 15 miles from my wifes home town .
+603	whoa , that really is crazy . i wonder what it was like for him growing up .	probably slightly boring because it 's in the country but at least he attended the academy of contemporary music after high school .
+604	that 's interesting . it always amazes me to learn about how certain artists progress through life .	he has done really well considering he won the 2015 brit album of the year .
+605	no passages used	have you ever been to austin , texas ? its fantastic , i have lived here all my life , what would you like to know about it ?
+606	never been to any part of texas , actually ! texas just seems like a fascinating place in general . i 'd love to know anything you know off the top of your head , for starters .	well as of today austin has a total population of 947,890 people making it on of the top largest cities in the us .
+607	for some reason i never thought of it as a major city . guess i should change that thought . what 's a fun fact about it that you like to tell people ?	well for starters it is the 11th most populated city in the usa and the 4th most populated city in texas .
+608	ah , pretty cool . anything about the culture or the history that stands out	well san antonio has a cool history , it was founded as a spanish mission and colonial outpost way back in in 1718 , the city then became the first ever chartered civil settlement in texas in 1731 , making it the state 's oldest municipality .
+609	right on . i knew texas had cool history . anything about texas art or food that stands out ? if not , more history works too !	yep the more history you learn about texas the more you will love it . the state is massive too , its one of the biggest states . wish more people lived here .
+610	i think blue is the best color . what color do you think is best ?	i like blue as well ! i like that it contains a mix other colors , like green , azure and even a little violet .
+611	your mention of violet reminds me of the early spring bluebells that start to bloom in early may !	those are blue and violet for sure ! sometimes the distant bluebells appear more blue because of an optical effect called atmospheric perspective .
+612	does that mean when i get closer to them they appear more purple ? i 'd love to check this out .	in the middle ages , blue was used in the windows of cathedrals . i wonder if the color changed when you got closer or more distant ?
+613	you mentioned atmospheric perspective and how it can change how we see color . what else can you tell me ?	you can see blue as it lies right between violet and green on the spectrum of visible light .
+614	does the quality of light affect how i see the colors ?	i 'm not sure about quality of light , but i do know gender , age and culture can influence how an individual sees color . i 'm sure quality of light affect the color , too !
+615	the internet is the global system of interconnected computer networks that use the internet protocol suite ( tcp ip ) to link devices worldwide .	do you know that the internet is a global system of interconnected computer networks that use the internet protocol suite ?
+616	no , i did n't actually know that . to be honest i do n't know much about the technical details of how the internet works haha . like , could it be possible to one day just shut down the entire internet ?	the newtork is made up of private , public , academic , business , and government networks
+617	interesting . who 's responsible for creating the internet in the first place ? that 's assuming that it was just one person lol . i could be wrong	it takes with it a large amount of information resources and services , such as the inter linked hypertext documents , file sharing and other similar resource
+618	inter linked hypertext document ? is that just another word for a web page ?	yes , it 's a part of it that 's why . the whole idea started as a research commissioned by the united states federal government in the 1960s to build robust , fault tolerant communication via computer networks
+619	a drum kit also called a drum set , trap set , or simply drums is a collection of drums and other percussion instruments , typically cymbals , which are set up on stands to be played by a single player , with drumsticks held in both hands , and the feet operating pedals that control the hi hat cymbal and the beater for the bass drum .	a drum kit is also called a drum set and i love playing the drums at my church
+620	i like the drums	did you no this about drums , in 2000s some kits also include eclectronics and new sticks
+621	electronics drums ?	some are both electronic and acoustic were used in 2000s
+622	that is very good technology	yes but drum kits also membranophones and idiophones
+623	i love my mobile phones , can n't do without it !	me too ! i could n't live with texting , email , internet , wifi , apps , video games , and pics .
+624	what 's you best brand of mobile phones ?	i really like samsung , but the first mobile phone was actually a motorola . it weighed 4.4 lbs !
+625	are motorola brands still in the market ?	motorola was actually sold to google back in 2012 , and then to lenovo in 2014 .
+626	wow ! never knew that . i see iphone as a leading brand.all thanks to steve jobs	steve jobs was an incredible entrepreneur . he actually owned the majority of pixar .
+627	the course of study is typically three or four years .	i graduated with a bs in nursing which takes three or four years for the course of study .
+628	three or four years for a nursing education sure sounds exhausting	just think about medical school , which awards professional degrees for surgeons . even more tiring !
+629	i 've never considered such a career but thinking about it i can imagine it is quite tiring	the highest degree is a doctorate , which usually involves research and teaching at a university .
+630	will you ever try to get your doctorate ? would you enjoy teaching at a university ?	maybe not in nursing , but phds can be awarded for programs across all academic fields
+631	what other field might you be interested in learning more about ?	the history of science is interesting . women in science have faced barriers in peer review and lab science .
+632	it is one of the world 's most important economic sectors by revenue .	the automotive industry is such an important economic sector ! my dad worked in an automotive factory until he retired last year
+633	you know i have some relatives who work for gm and some who retired	gm came about in 1908 as a holding company in flint , michigan , while the automotive industry itself began in the 1890s
+634	hard to believe the auto industry has been around that long	i know ! and it began with the horseless carriage !
+635	one of these days we may go back to the horseless carriage :)	lol it was once common that carriages were pulled by animals usually horses !
+636	i mean horse driven carriage , everything goes back to the horse even horsepower for cars	the u . s . produces a lot of cars after world war ii it produced about 75 percent of the world 's auto production .
+637	the inner critic in me is very intense .	everyone 's is mine used to be crippling . i never left the house . sometimes you have to have some self compassion to battle those feelings in times of suffering .
+638	i try , but i just can n't control myself most of the time .	it 's all about extending the sympathy you would have for someone else but to yourself instead . a pat on the back from myself goes a long way when i 'm down .
+639	my lack of sympathy is my biggest problem .	the greeks knew the feeling well , with " syn " meaning together and " pathos " meaning feeling . it 's important to be sympathetic to feel a sense of community , even with yourself .
+640	i would love to be able to be part of a community , but i am to hard on people .	empathy and in general understanding others is very difficult , but it is a muscle that has to be worked to get better
+641	general understanding of others is the key for me .	empathy encompasses many emotional states . with time , you can overcome anything , even anxiety .
+642	yoga ( sanskrit , listen ) is a group of physical , mental , and spiritual practices or disciplines which originated in ancient india .	i am a yoga instructor . we get together every day to practice the physical , mental and spiritual movements .
+643	that 's awesome . i have never tried yoga !	it goes back long ago , but it is more than just exercise , you really get involved in the spiritual part of it as well .
+644	how is it beneficial spiritually ?	well it comes from buddhism , and hinduism , so not only is it meditative , they incorporate being at one with nature .
+645	it sounds peaceful ! do you need to already be physically active to participate ?	no , yoga is for anyone . since the 80 ' s it has been a popular way to exercise , but you do not need to already be active to enjoy it .
+646	are there any other benefits of yoga than spiritually ?	well you can get fit that way , or you can really center yourself by meditating . it helps you to become more flexible also .
+647	do you know any good role playing games ?	no but i would love to learn more about them thats where people assume roles ?
+648	yes i think so .	i think players act out roles of characters in role playing
+649	kind of like charades i guess .	yeah some role playing games are live action while others are done through a discussion
+650	what are some examples ?	both forms have a game master and a referee
+651	have you ever been to nashville , tennesee ? it 's on my bucket list .	i have n't been the nash before , i 'm eager to check out the capital city 's music scene there .
+652	yeah , i hear the music and club scene is fantastic . and of course the oprey !	i wonder if there are river tours on the cumberland river . what sorts of sights do you hope to take in ?
+653	i 'd like to tour all of the bars , and maybe head to dollywood , if it 's not too far !	dollywood would be fun ! especially since i 'm not much of a city girl . nashville is pretty big and very populated , over 1.8 million folks live there !
+654	wow , it 's much bigger than i thought . are the great smoky mountains in tennessee ?	they are ! they are also in north carolina . if you 've never been to north carolina , it 's great ! we visited the blue ridge parkway not long ago .
+655	the welsh corgi , sometimes known as just a corgi ( , welsh for " dwarf dog " plural " corgis " or occasionally the etymologically consistent " corgwn " ( ) ) , is a small type of herding dog that originated in wales .	i love my welsh corgi ! corgi is welsh for dwarf dog and is a small type of herding dog that came from wales
+656	i am not familiar with the breed . are they friendly dogs ?	they are ! there are two recognized breeds , the pembroke and the cardigan
+657	what are the differences in the two breeds ?	well , the cardigan is larger overall in both height and weight
+658	what else can you tell me about the corgi ?	well , the pembroke is more popular than the cardigan
+659	i enjoy a good novel . i read 3 books a week .	that 's a ton of reading , wow ! i majored in english in college , so i really like reading too .
+660	it is very relaxing to me	well , you are not alone . novels have been around since the early 18th century , according to ian watt , who is an expert i learned about in school .
+661	that is interesting . i wonder how they were started ?	well apparently they started in classical greece and rome , a good 2000 years ago .
+662	how were the first ones written or what about ?	i believe they got started in medieval romance writing , which was in the form of poems and novellas .
+663	so i have been getting into long distance running as of late	long distance running is where you just run for kilometers at a time and its quite hard
+664	it is a big workout	long distance running is a great work out if you do it for long enough
+665	how long have you done it	i dont long distance running i meant for how long you run for as in how much distance time in one run
+666	i likw ir a lot	it really can be great
+667	i am not that into tea but i really do enjoy it .	yes i love tea . i drink it everyday . it is thought of to be very aromatic .
+668	i tried a creme brulee one but it was too sweet . do you know of any other flavors ?	i like the chai spice black tea . i consume it more than water almost .
+669	ooh that sounds really good . i think people like coffee more though .	yes that is true . i did n't know that tea originated in southwest china though .
+670	i did know that however how did it become popular ?	not sure , but the history of tea is very long and complex .
+671	kindergarten ( from german , which literally means " garden for the children " ) is a preschool educational approach traditionally based on playing , singing , practical activities such as drawing , and social interaction as part of the transition from home to school .	i work in a preschool educational institute as a teacher .
+672	does that pay well ?	not really but i enjoy the social interaction with children .
+673	that is good , do you feel it is rewarding enough to justify the stress ?	for me personally , yes . its just so satisfying to work with children ranging from two to seven years of age .
+674	that is a pretty broad range , how do you deal with that ?	well mostly using a variety of teaching methods for each different age group .
+675	church music is music written for performance in church , or any musical setting of ecclesiastical liturgy , or music set to words expressing propositions of a sacred nature , such as a hymn .	i love to listen to religious music ! hymns and sacred songs are something i listen to every week at church .
+676	what is your favorite song ?	i like " glorious things of thee are spoken " ! it 's crazy how christianity began out of a jewish sect , so these songs are amazing !
+677	i like christian rock myself , skillet is my favorite band i think	neat ! i 've never heard them . i also really enjoy the songs created out of the book of psalms . it 's the best place to find spiritual songs .
+678	that one is pretty much all songs right ?	correct , yeah ! the title is actually directly translated to " instrumental music "
+679	huh , that is interesting , i know they read psalms in catholic services a lot	yeah ! the structure of the psalms likely originated form the ancient israelites as well !
+680	what even is telenovela ?	a telenovela is a type of limited run tv drama
+681	hmm interesting , i do n't think i 've seen any before .	a telenovela is popular tv in latin america
+682	ohh must be like a soap opera .	a telenovela is basically a soap opera yes
+683	that 's what i thought , since they are really popular in latin america too .	yea telenovela are very popular in latin america
+684	what is your view on gender changes ?	i have a neutral feeling toward it . a change is the process by which a person or anmial changes its identity .
+685	i do not know how i feel , i am not sure if it makes anyone happier , at least not from research i have seen	a random fact it can also occur naturally as in in the case of a sequential hermaphroditism observed in some species
+686	that is really odd , does it occur in humans ?	no it does not but i did find it also sometimes happens for medical procedures
+687	what type of issues require that ? that would be very scary	not much information on that but i did find that the term may also be applied ot the broader process of changing gender
+688	in non technical use , bird songs are the bird sounds that are melodious to the human ear .	i love listening to bird songs . they sound so melodious to me . i could listen all day !
+689	i like them as well , i think the high pitch is interesting in many bird songs .	i did n't realize that ornithologists distinguish between songs ( to do with courting and mating ) and calls which are used as alarms or keeping flocks together . quite interesting , i thought .
+690	yes , i 've heard that the distinction is mostly function based . aldo i have heard both types being called bird vocalization .	some base their distinctions on function , e . g . the drumming of a woodpecker is considered a song . i 'd never have thought of it that way .
+691	i think some other factors that make up the distinction are complexity , length , and context of the noises .	i wish i was an ornithologist and could differentiate between songs and calls !
+692	they are often used to correct underbites , as well as malocclusions , overbites , open bites , deep bites , cross bites , crooked teeth , and various other flaws of the teeth and jaw .	i recently found out that my daughter needs braces to correct her underbite , but i do n't know very much about them .
+693	funny enough , i used to have braces . they are n't too bad . though you 'll have to watch what kind of candies she eats .	my daughter needs them for structural reasons . what kind of candy causes problems ?
+694	anything sticky . they may accidentally pull the braces off . happened to me . it was expensive to fix	were your braces cosmetic or structural ?
+695	both . i had a bit of an under bite but that also had to realign my teeth . took quite a few years .	i am fascinated to know that the first braces date back to ancient times . who came up with it anyway ?
+696	a fairy tale is a type of short story that typically features folkloric fantasy characters , such as dwarfs , dragons , elves , fairies , giants , gnomes , goblins , griffins , mermaids , talking animals , trolls , unicorns , or witches , and usually magic or enchantments .	do you like fairy tales ?
+697	depends on the tale , but generally yes ! why do you ask ?	just curious . i like the ones with dragons .
+698	me too ! what tales do you have in mind ?	i love the canterbury tales .
+699	what are the canterbury tales ? they sound familiar !	they are a collection of 24 stories .
+700	what are the stories about ?	i am not sure but they were written from 1387 to 1400 .
+701	the golden gate bridge is a suspension bridge spanning the golden gate , the strait connecting san francisco bay and the pacific ocean .	the golden gate bridge is a suspension bridge spanning the golden gate
+702	what city is that located in ?	it connects san francisco bay and the pacific ocean
+703	do you know when it was built ? i would love to see it in person some day . it is so amazing in pictures	the golden gate bridge is one of the wonders of the modern world
+704	how long is it ? could you walk across it ?	it was both the longest and the tallest suspension bridge in the world
+705	hello i would talk about child	awesome those individuals who have never had siblings are called only child of their parents .
+706	biologically , a child ( plural : children ) is a human being between the stages of birth and puberty . the legal definition of child generally refers to a minor ,	yes another consideration is that some children may have half siblings or step siblings , either living at the same house or else where
+707	yes there will join in same house and also they will adopted each other .	if you check very well , you will realize that only children were relatively uncommon except in place where there is a policy for that such as china
+708	legal definition of child . plural children . 1 : a son or daughter of any age and usually including one formally adopted compare issue .	some who decide to practice this have their reasons and this include increasing costs of raising children also more women having their first child later in life .
+709	our job as parents is to prep our kids for the " real world . " so , we 'll direct you to which healthy foods and activities will make them strong , which books	in the usa the trend for only child increased great depression but fell during the post world war ii baby boom .
+710	morning sickness , also called nausea and vomiting of pregnancy ( nvp ) , is a symptom of pregnancy that involves nausea or vomiting .	i have been experiencing morning sickness for the past three weeks . the nausea and vomiting is terrible
+711	that does not sound good ! maybe you should go and see a doctor ? ... maybe you are pregnant ?	yes it can be a symptom of pregnancy . i 'll make an appointment soon .
+712	tell more more about being pregnant . i have never been .	also known as gestation . pregnancy is when one or more offspring develop inside a woman .
+713	wow , i think it is amazing that the human body can reproduce tow humans at the same time .	it really is amazing . i believe you are more likely to have a multiple pregnancy if you used reproductive technology to get pregnant .
+714	totally true . because they actually are placing the little humans in there purposefully .	when non humans have multiple births the group is called a litter .
+715	game of thrones is an american fantasy drama television series created by david benioff and d . b . weiss .	hi there ! i remember the epic movie that hit the cinema some years ago , " game of thrones " . it wascreated by david benioff and d . b . weiss .
+716	yes , i enjoy " game of thrones , " but is n't it a television show rather than a movie ?	yeah , but filmed in belfast and elsewhere in the united kingdom , canada , and other countries
+717	interesting . do you know who some of the star actors are ?	not readily , series will conclude with its eighth season premiering in 2019 .
+718	i 'm looking forward to it . it must be expensive to film the show in all of those different places .	its also an adaptation of " a song of ice and fire " , george r . r . martin 's series fantacy novel .
+719	yes , i 've read those books . the show started very similarly to the books , but it has become more different as it has gone on .	george raymond richard martin is an american novel writer who writes on fictions , short story and drama
+720	its headquarters are in hershey , pennsylvania , which is also home to hershey 's chocolate world .	i think i might have to move to hershey , pennsylvania , then i can get discounts on chocolate .
+721	that would be amazing !	milton hershey is my hero . what an amazing confectioner .
+722	a true confectionery genius , what is your favorite kind of chocolate ?	it 's so hard to choose . probably cadbury with the caramello and cadbury eggs . it is after all the second largest confectionery brand in the world .
+723	very true ! i love peanut m ms , especially when they are frozen , it gives the chocolate such a wonderful texture in my opinion .	yum . just yum . i love reese 's peanut butter cups . they are made by hershey 's too .
+724	hershey 's just makes the absolute best things in life !	that is so true . the owner of hershey 's even made a leisure park for the employees of his company .
+725	i have always wanted a pot bellied pig .	they are really cute i wanted one too for so long . their possession of small , perked back ears , a potbelly , sway back , chubby figure , rounded head , short snout
+726	i am suppose to get one next year .	you can also called them micro pig , teacup pig , etc .
+727	what do they eat ?	i am not sure but people tend to eat them , it is slow growing , but the meat has good flavour
+728	i would never want to eat my pet pig .	i would not either but that is what people tend to do ahha
+729	i love a well cooked steak ! i especially love filet mignon . do you like steaks ?	they are usually grilled . but i love pan fried ones . what about you ?
+730	i prefer a steak from the grill . are there other methods of cooking steak ?	they can be grilled , pan fried and broiled
+731	what are the most popular cuts of steak ?	there are several types such as fish , meat and pork . i guess ground meat steaks are popular
+732	what is a ground meat steak ? i 've never heard of that before .	they are made of meat sliced across the muscular fibers such as bone .
+733	husky is a general name for a sled type of dog used in northern regions , differentiated from other sled dog types by their fast pulling style .	i have a husky . he 's a great sled dog ..
+734	i love huskys but its way too hot where i live for one of those ! they are very beuatiufl dogs	i know they are more suited to live in the snow regions .
+735	yes they are better suited for the cold because their fur is so thick	well the word husky means arctic people aka eskimos . i guess it suits their thick fur coats lol
+736	yes , that does make alot of sense	the husky i have is very fast . they are known to be the fastest breed of dogs .
+737	are they really ? i didnt know that about them . how long do they usually live ?	i 'm not sure , but after they retire from racing people work hard to find them a new home .
+738	my favorite soda is dr pepper . can you tell me about it ?	same hands down . dr pepper is a carbonated soft drink
+739	i wonder when it was first invented ?	well the drink was created in the 1880s by pharmacist charles alderton in waco , texas !
+740	cool , i thought his name would be pepper , lol . no wonder it is so popular in texas .	yeah i live there ! dr pepper was first nationally marketed in the united states in 1904 , and is now also sold in europe , asia , canada , mexico , australia , and south america
+741	i have started drinking diet dr . pepper . it is pretty good for a diet drink .	variants include a version without high fructose corn syrup , diet dr pepper but its not as good
+742	yeah i 'm trying to watch those calories . nothing beats the original though .	i have heard it was introduced nationally in the united states at the 1904 louisiana purchase exposition
+743	gardening is the practice of growing and cultivating plants as part of horticulture .	hello i definitely have a green thumb . gardening is my life . i been growing some of these plants for 15 years .
+744	what types of plants do you grow ? i have been gardening ever since i was about 4 years old .	that 's cool i grow sunflowers , oranges , lemons , aloe , a bunch other plants . i find gardening to be relaxing , do you ?
+745	sometimes it can be , but i used to have to work long hours in my mother 's vegetable garden , so sometimes i was just mad i had to be there .	i bet gardening is exhausting definitely not something easy definitely a learning experience .
+746	yep ! but since we used to grow vegetables we always got to eat them after a long hot day of working , so it made up for it !	what kind of vegetables did you grow ?
+747	we grew corn , beans , all types of squash , watermelons , tomatoes basically anything you can think of !	i love a good homegrown tomato . i tend to eat a lot of veggies everyday .
+748	i enjoy scuba diving	yeah , guess it a type of under water diving by the aid of a breathing apparatus
+749	the first time i went under water with the mask , i felt claustrophobic and was panicky	yeah , esp.during immersion in water and exposure to high ambient pressure
+750	it is definitely a very different sensation	its called the physiology of underwater diving , sensational indeed !
+751	after getting used to it i was fine and able to enjoy myself	safety first depends on four factors , the environment , the equipment , behaviour of the individual diver and performance of the dive team
+752	hi , do you enjoy watching game of thrones ? its my favorite show of all time .	game of thrones is great i love it
+753	who is you favorite character ? i like tyrion the best .	its hard to say , i think george r . r . martin did such a good job writing all of them in his game of thrones novels
+754	i agree , its so exciting and has great drama that i love all the characters .	the show started all the way back in 2011 and the 7th season just ended in august of 2017 . they are taking a year off to film the last season
+755	yea i really missed watching it this year . its going to end next year i think .	yea the 8th season will be in 2019 and it will be the last one
+756	ah its going to leave a big hole in my life . what else do you know about game of thrones ?	it is filmed all over . belfast , the uk , canada , croatia , malta , iceland , spain , the us and morocco
+757	no passages used	i work for a newspaper :)
+758	what is the history of newspapers ?	well , broadly speaking , newspapers have been traditionally published as print and it 's only in modern times that it has become accessible online as well
+759	i prefer to access the newspapers online .	i think most younger people do and , as a matter of fact , quite a few newspapers have abandoned their print versions entirely and just post online
+760	yes , paper can get frivolous and old . i wonder what is a oldest newspaper ever found , i 'm guessing in the early 1900 ' s ?	almost ! newspapers actually came about in the 17th century as information sheets for businessmen , but by the early 19th century many cities punlished them as well
+761	have you ever had scotch whisky ? i think i had it back in college , but i do n't remember very much about it .	i have never tried it but i hear it referenced a lot on movies and television
+762	i 've had regular whiskey just not scotch whisky . have you ever made mixed drinks with it ?	since it makes it a lower priced product , i might try it someday
+763	there must be some special process in brewing scotch whisky as opposed to regular whiskey .	scotch whisky was originally made from malted barley but is now made from wheat and rye
+764	i see . how much does the average bottle of scotch cost about ?	i 've seen it go for as little as 5 but i am sure there are more expensive options
+765	paris ( ) is the capital and most populous city in france , with an administrative limits area of and an official population of 2,206 , 488 ( 2015 ) .	paris is such a beautiful place ! on e of the most popular places in france .
+766	i would love to visit some time with my wife . we would like to go to ireland first .	definitely ! apparently since the 17th century , it has lead in finance , commerce , fashion , science , and arts .
+767	charlotte , nc is one of the top areas for finance in the u . s .	charlotte is also known for auto racing .
+768	i hope to move to that area in the next couple years . i am in the finance industry .	nice are you a banker or some kind of broker ?
+769	i am interest in financial analysis . specially , in company valuation .	what does company valuation entail ?
+770	no passages used	hey ! i love nail art !
+771	what 's so special about it ?	it is a creative way to paint , decorate and be creative with your nails ! have you tried it ?
+772	no , is it popular ?	yes ! have you seen youtube videos ? they 're so creative and they do different kinds for different characters !
+773	i like youtube . what else is good on there ?	you mean aside from wonderful nail art tutorials ? there 's different vlogs and of course viral videos !
+774	what is a vlog ?	it is a video blog or a video log ! vlog is short for that term ! it just a form of video where people blog about their lives !
+775	an only child is a person with no siblings , either biological or adopted .	i am an only child . i wish i had siblings , but my parents are too old to have more kids .
+776	i have a sister who is 18 years older	wow , that 's a big gap . do you feel like your relationship with her is cohesive , in spite of it ?
+777	we actually get along great . she always made a great effort to act like a big sister .	that 's wonderful to hear , so you never felt had that " little sister " feeling of not belonging , or that you did n't get much attention ?
+778	nope , not at all . i 'm very grateful that she made such an effort . i know people who are not close to their siblings and i can n't imagine !	i know what you mean . i feel distant from my brother sometimes , but that might be because we only have a six year age gap .
+779	i can see that . it 's a close gap , but yet a far gap if you know what i mean . lots of life can happen in a six year difference .	when i said brother , i meant my best friend . we always call each other that . i 've got the intelligence of toey tribbiani sometimes , lol .
+780	are you a vegetarian ? i am thinking about cutting meat out of my diet , completely .	yeah i 'm a vegetarian . i do n't eat meat at all , and even animal byproducts
+781	that 's pretty great ! are you a vegan , then ?	nope , just vegetarian is enough for me . even though humans have hunted animals and eaten them since prehistoric times , i do n't !
+782	that 's a good attitude . and we live in a time where it is even less important to eat meat .	yeah , and eating meat is unsafe ! it 'll go bad and rot in just hours and you can get infections from it
+783	i agree . meat is also a poor choice from an ecological perspective , as well an industry that heavily contributes to global warming !	i 'm also a vegetarian because i 'm religious , namely hindu ! it 's important to me on a health and religious level not to eat meat
+784	i love to swim and it keeps me in shape	i like it too . it 's a good " low impact " sport compared to running
+785	yes and i have lung disease its very easy for me to exercise in water , much easier than a gym workout	that would be a much better activity for someone with lung disease than other recreations , sports , or exercises
+786	yes and its also low impact on my bones and joints . older people really benefit from swimming	it 's low impact because the human body is only slightly less dense than water , which allows the water to support a person 's weight
+787	oh ok that makes a lot of sense and i noticed i do not get as short of breath swimming versus gym workouts	when you swim , he buoyancy can depend on how much body fat and how salty the water is
+788	do you know it is believed that people with beards are extremely smart .	lol even women or only males who grow beards ?
+789	i have only heard of males . it must be inaccurate . did you know certain animals can also grow beards .	interesting , what about hair loss or fine hair ? think it indicates something else ?
+790	i would think so . but , you also hear bald men are also smart . i wonder why no hair assumptions correlate with women .	it 's a lot scarier for women though , i think , it can cause psychological distress .
+791	definitely . my sister was lost hair after she gave birth . going through that and hormone changes definitely caused distress .	i bet it causes shame in public or social events , this is called minority stress .
+792	that makes complete sense . she had to learn how to part her hair different ways . i wonder how many women go through this too .	i 'm sure many have to change their hairstyle , or haircuts , or how they style it , to try to cover up .
+793	social anxiety can be defined as nervousness in social situations .	social anxiety is defined as nervousness in social situations , lots of people have this issue , including myself . do you
+794	i certainly feel social anxiety in certain situations . i definitely feel it when i 'm meeting lots of new people .	some people with higher social anxiety show fewer facial expressions , i can definitely relate to this
+795	really ? is it because you are trying to mask your anxiety , afraid to show your emotional state ?	im not sure exactly , its pretty odd but i have always been that way all my life
+796	is it something that is common in your family , or are you the only one ?	yeah its pretty common with my family . my mom was bipolar so it kinda relates to it
+797	hello , i wish to buy a corvette when i retire	me too . i like to call it a " vette " because it sounds cooler . i mean it is a sports car .
+798	i always wanted one since i was little they are cool cars	i know , and they are very maneuverable like a warship . that 's why myron scott named them after a warship .
+799	i never knew thye were named after a warship , interesting	yeah , they were originally designed as a show car for the 1953 motorama display , but so many people liked them that gm started making them available to the public .
+800	one of these days i going to my dream vette	the first ones that came out in 1953 were hand built and all of them were painted polo white .
+801	i like the corvettes made in the mid 60s but too much buty	the year after that they were also available in red and black . they were sold slowly . i 'm guessing because they were probably so expensive .
+802	do you ever do any cake decorating ?	sometimes but the molded dimensional designs that some decorators do to resemble real life objects or real life people is too much for me . they are beautiful but it seems like such a waste !
+803	do you mean like it is to pretty to even eat ?	yes ! it originated in 17th century europe , so i can see how it evolved to art , basically .
+804	i can n't imagine how they can even do it ! i definetly do n't have that skill set !	it takes a lot of dedication . another cool fact about europe is that the fall of the roman empire happened in ad 476 and this kicked off the middle ages .
+805	wow that is interesting ! do you enjoy middle age history ?	i do , it 's fascinating . there 's 3 distinct periods of it , early , high and the late middle ages . what about you ?
+806	i have really bad allergies .	oh , i 'm sorry to hear that your immune system is hypersensitive to things that usually cause no problem for others . may i ask what you are allergic to ?
+807	i am allergic to pollen and some dander . when it 's pollen season my allergies go crazy .	sorry to hear that . i 've been told i 'm allergic to penicillin . allergies to medications can cause serious reactions .
+808	i did n't know you could be allergic to medicine . what else can people become allergic to ?	insect stings and food , to name a few .
+809	oh yea that 's right . i heard allergies to bee stings can be very dangerous . is that true ?	for some people i believe a bee sting can cause anaphylaxis , which is a serious allergic reaction that can result in death !
+810	i really like doing yoga every morning beafore i eat my breakfast	me too my favorite types of yoga are hatha yoga and r ja yoga . they can really help you stretch .
+811	do you know much about the history of yoga ?	well the origins of yoga have been vastly speculated to date back to pre vedic indian traditions it is even mentioned in the rigveda , but most likely developed around the sixth and fifth centuries bce , in ancient india 's ascetic and rama a movements
+812	that is really interesting i really find yoga to be very helpful in very stressful days	indeed i go to many yoga schools and also met many people who do it while practicing in hinduism , buddhism , and jainism .
+813	i usually do youga by watching positions on a video and sometimes going to a hiking track just to do yoga	i also love to watch videos of yoga as well , its a good tool to learn many new positions and new ways to stretch .
+814	yeah it is really helpfullm with the tied mustles	yes thats one of the main reasons i do it , to help loosen my muscles up , i have less stress in my life when i do yoga , its amazing .
+815	i moved to america 7 years ago . i speak perfect english but people say they still can hear my russian accent	you probably still have that accent because it is a manner of pronunciation to a particular individual , location or nation .
+816	honestly , i think i sound like i was born here lol but i guess people can still hear a little bit of accent	aw , that 's okay . you are contributing the formation of the different varieties of north american accents .
+817	really ? that 's cool to think of it that way . i would like to know more about accents	well , they typically differ in quality of the voice , pronunciations of the words , stress and prosody .
+818	that 's really cool !	yes . the word accent may refer specifically to the differences in pronunciation .
+819	i guess i do pronounce some words differently . one of those words is caffeine , i always sound like i 'm saying cocaine lol	awww , that 's okay . i am from the northeast us and get made fun of some of the words i use .
+820	the clarinet is a musical instrument family belonging to the group known as the woodwind instruments .	i have always loved listening to the clarinet . i love woodwind instruments .
+821	do you play any woodwind instruments ?	no , just a dream of mine to be a clarinetist ( or could be spelled clarinettist )
+822	do you have a favorite clarinetist or clarinettist ?	tale ognenovski is my favorite . he was a multi instrumentalist .
+823	where is tale from ? what other instruments does he play ?	he was from macedonia and also played the bagpipe , zurna , recorder and drums ... and he composed .
+824	he sounds like a talented man . when are you going to start learning how to play the clarinet so you can become the next tale ?	soon i hope . that single reed mouthpiece might prove to be difficult though .
+825	veganism is both the practice of abstaining from the use of animal products , particularly in diet , and an associated philosophy that rejects the commodity status of animals .	hello i do n't eat any animal products , i am vegan .
+826	that is a healthy way to be . why do you choose to be vegan ?	well i am a dietary vegan but resonate with ethical vegan , that means anything animals are used for i avoid . like leather and such . it 's better .
+827	yes . that makes sense . i hate our meat system but i just hate vegetables so bad	people argue that it is not necessary to survive anymore , which is true . i like to tell people it is n't good for the planet and veganism is great . vegetables are good just hard getting used to , not all i eat !
+828	it is good for the planet . other than frying them most vegetables are so incredibly bitter i cant eat them	well i eat a lot of chinese food , i stir fry vegetables and add a bunch of them along with soy sauce and garlic !
+829	hi , i 'm james do you listen to any electronic music ?	i do ! i especially like techno as it came about in detroit which is where i am from .
+830	oh that 's cool , i 'm from new jersey . my only real exposure to electronic music was in the dance clubs of nyc in the late 90s . which artists in particular do you like ?	i like kraftwerk , giorgio moroder , and yellow magic orchestra .
+831	i 've heard of kraftwerk . i used to listen to em a long time ago . my favorite were fatboy slim , chemical brothers , and darude	fatboy slim is good . he won 10 mtv video awards and two brit awards ! that 's prety impressive
+832	i remember a music video by fatboy slim where all it was was christopher walken dancing , it was probably the best music video i have ever seen .	weapon of choice ! yeah it was released as a double a side single in april of 2001 . so good .
+833	is electronic music you favorite , or do you like something else more ?	i love it . i like how it uses mechanical elements and electric elements .
+834	he was offered , but declined , the position of poet laureate in 1984 , following the death of sir john betjeman .	have you ever heard of the author philip larkin ? he was an accomplished author in fact , he was once offered the pet laureate position !
+835	i have not heard of philip larkin ! does he have a famous novel ?	he has several famous novels , though he is probably best known for his poetry , his novel jill was published in 1946 and shortly followed by a girl in winter .
+836	are you a big fan of poetry ?	well , i love philip larkin 's poetry . his first poetry book was published in 1945 .
+837	what was the name of his first poetry book ? if you know ?	the north ship
+838	i used to love being read fairy tales when i was a child . what 's your favorite fairy tale ?	the adventures of pinocchio is my favourite ! it 's so far fetched and can n't possibly be true ! or can it ?
+839	who knows ? ? ? it was written by an italian , so anything could be true , lol . i think my favorite is cinderella .	i also like fairy tales with folkloric fantasy characters , elves , and unicorns !
+840	yes ! the brothers grimm did a great like in those types of characters . now i want to read them again !	those books are awesome ! jacob and wilhelm grimm were so talented ! i also like the tv show called grimm that was based on their stories !
+841	i watch that too it 's fantastic ! i wonder if you can read their stories online . fairy tales are such fun they take you to the weirdest of places to meet the strangest of folks !	that 's for sure ! interestingly , most fairy tales have a european tradition origin and are mostly related to literature for children .
+842	in recent decades , records have sometimes been called vinyl records , or simply vinyl , although this would exclude most records made until after world war ii .	i like listening to records , some people call them vinyl or vinyl records .
+843	is that your favorite way to listen ?	i like the lp the best , i like how it is made of shellac because prior records were scratchy and thick .
+844	how does it compare to digital sound ?	digital sound is really clean , but there is a nice way that the record sounds .
+845	how is the sound produced ?	well , to tell you the truth , i think it is because of sound vibrations , soundwaves that are recorded by some sort of etching ? maybe it can be impressed too , and it is onto a rotating disk then it is called a record .
+846	that 's what i thought . what 's your favorite record ?	my favorite record is pretty in pink , by the psychadelic furs , have you heard it ?
+847	the city of new york , often called new york city or simply new york , is the most populous city in the united states .	i love new york . its the most populous city in the country !
+848	i love new york too , the greates mix between city and parks , the city that never sleeps ! when was the last time you were there ?	it was probably 8 years ago . i love hearing all of the different languages spoken there
+849	yes , more tham 3.000 restaurants tell you abput how many cultures live there , also i love the song , new york by fran sinatra !	yes ! frank was born in new jersey to italian imigrant parents but he did love new york
+850	oh good i didnt know ! i went there laste year , first time i visited the statue of liberty , the most recognized monument of new york !	yes it used to be copper but is now green . i went by it on the staton island ferry
+851	the title is a play on " gray 's anatomy " , a classic human anatomy textbook first published in 1858 in london and written by henry gray .	grey 's anatomy is a show based on a classic textbook of the same name
+852	i have heard of it but never watched it . is it about doctors ?	yes it is . it is a medical drama about the profession .
+853	ok . i used to watch er back when george clooney was on it . i 'm not that into medical shows though .	it was set in seattle and filed in la , california .
+854	who were the main star actors in the show ?	the series was originally supposed to be racially diverse . meredith grey is the main character .
+855	hiking is the preferred term , in canada and the united states , for a long , vigorous walk , usually on trails ( footpaths ) , in the countryside , while the word walking is used for shorter , particularly urban walks .	hiking is the preferred term , in canada and the united states , for a long , vigorous walk , usually on trails
+856	i like hiking . i almost make sure i 'm fully prepared with my camera , a few bottles of water and some snacks . how about you ?	its all about preference ! there are terms used to refer to hiking by different countries .
+857	i see , that 's very interesting . do you happen to know any of those other terms ?	in the united kingdom , and the republic of ireland , the word " walking " is acceptable to describe " all forms " of walking ,
+858	aha , i learned something new this morning ! my knowledge bank has expanded .	i 'm not done yet ! the bank is not exhausted just yet . moreso , the term bushwalking is endemic to australia , having been adopted by the sydney bush walkers club in 1927 .
+859	oh , i see , haha ! sorry , that name made me laugh . i do n't think i 've ever heard of such a thing before .	also , new zealand a long , vigorous walk or hike is called tramping .
+860	i like alcohol do you ?	i love it even though i have n't drank much yet . in chemistry its basically a hydroxyl group that binds to a saturated carbon atom .
+861	ok it means , it 's all chemicals we are drinking right ? wow , so unhealthy !	oh yeah chemicals are so bad haha . thankfully rhazes distilled alcohol for the first time way back between 854 and 925 ce , otherwise we 'd be dry haha !
+862	amazing , that 's a long time along . i 'm speechless	i know , it 's crazy ! also the " ol " at the end is to indicate that it contains a hydroxyl functional group .
+863	chemical indeed . do you know if there is any on going research to make alcohol safer for people to drink ?	not as far as i know , as the risks are very hard to avoid . one thing to note is that alcohol used to only refer to ethanol , which is used as a drug .
+864	pizza is sold fresh or frozen , either whole or in portions .	i love pizza ! especially fresh pizza . frozen pizza just does n't taste the same .
+865	i agree with you for the most part . i like home run inn frozen pizza but that 's the only frozen one i enjoy thus far .	i 've never had it . growing up , my dad used to buy us ellio 's pizza . they were founded in 1963 in long island , ny .
+866	ok that has to be good , i 'm assuming that is fresh ny style pizza ? i used to live in chicago and at that time i had some good chicago style pizza .	actually , it was frozen pizza . it was " 9 slices " of pizza in a box comprising 3 rectangular pizzas , each divisible crosswise into three slices . i will still buy it from time to time just because it reminds me of my dad . i am not a fan of chicago pizza .
+867	that sounds like it came with a bunch of pizza . i like bulk pizza like that which can feed a family . it 's understandable that you do n't like chicago pizza coming from ny . what is your favorite style of pizza ?	thin crust . it 's usually topped with additional vegetables or meats , but i prefer mine with french fries on top .
+868	that 's interesting , i have never had french fries on my pizza . i like supreme style with stuffed crust preferably .	ah , so i guess you prefer pizza hut . they debuted the stuffed crust pizza back on march 26 , 1995 .
+869	hi , do you like tupac shakur . i love that song california love	so do i ! must be because i really like hip hop though .
+870	me too . it also featured dr . dre and roger troutman and was released after he got out of prison in 1995	i never knew that ! i did know that the song was meant as 2pac ' s comeback single for when he was released .
+871	yeah , it was his first single off of death row records .	cool ! it is definitely one his most widely known singles too .
+872	the original version had a sample from joe cocker 's song , woman to woman .	really ? i actually did n't know that , but i did know that " california love " reached number one on the hot 100 billboard for two whole weeks .
+873	i liked the video too . one was inspired by mad max beyond thunderdome and was jada pinkett 's idea . it was really good .	i know , they were great ! also the song was even nominated for the grammy award as a best rap solo performance and best rap performance by a duo or group !
+874	i think i want to start collecting old phonograph records	i think that 'd be a fine idea ! they 're more commonly known as vinyl these days , and this usually excludes records that were made until after wwii !
+875	i like them and think they are a cool addition to my other collections but do not know much about them	well , the way they work is they 're an analog sound storage medium , right , and so it 's a flat disc that has these spiral grooves that are inscribed and modulated onto the disc
+876	oh i had no idea it was so technical please tell me what else you know about phonograph records	well this important groove that the phonograph player needle settles on to play the music , it starts near the periphery and then goes all the way to the center of the disc !
+877	i know you have to be careful not to scratch that because it will ruin the record	you 're right ! it 's interesting you want to collect phonographs , because since the late 1980s , digital media compact discs took over the market share and has had it since then
+878	well i figure they will be valuable antiques shortly	that 's a fair point . they 're still useful in today 's world , as they 're used by disc jockeys and listened to by niche market audiophiles , possibly like you
+879	i smoke quite often from a pipe . do you ?	i used to , its the use of a pipe for smoking a substance by burning it
+880	yup , whether that substance is tobacco or other smokeable products .	its the oldest traditonal form of smoking
+881	that makes sense , i can n't imagine that they had bongs back then	yea its such an old traditional form of smoking becuase of native american and such
+882	that 's what i imagine when i think of pipe smoking as well , native americans in teepees .	yep so many native american cultures have pipe smoking in their culture
+883	did they just smoke tobacco or other stuff too ?	usually tobacco , its for ceremonial purposes
+884	now that it is summer , do you have plans to goto the beach ?	yes ! but not the ones that have man made infrastructure , such as lifeguard posts , changing rooms , and showers . i like natural !
+885	yes where it is just you , the sand and the water . oh gosh it can be relaxing	yes ! that is why wild beaches are valued ... totally untouched beauty and preserved nature .
+886	i feel like those are slowly going to go away as real estate becomes more and more a premium . hopefully countries start preserving these areas for good	i know ! i mean i can appreciate hospitality venues .
+887	all inclusive beaches for vacations are absolutely ideal for sure	and i mean , a good restaurant on the beach is life !
+888	hi , can you tell me anything about david mach ? i heard he was some kind of artist .	yep he is a sculptor from scotland .
+889	interesting , what kind of sculptures does he do ?	he uses mass produced objects to create works based on a flowing assemblage style .
+890	ohh i see . do you know where i may be able to see one of these sculptures ?	a lot of his works and installations are in public spaces around scotland .
+891	i guess i will have to try to visit some time . the pieces sound very interesting . i like how they are in public for everyone to enjoy .	he typically uses things like teddy bears and newspapers for his work
+892	that sounds really cool . using everyday items to build art intrigues me . you would never think to do something like that .	some of machs work has been used to cause a reaction and stir controversy
+893	i absolutely love ice cream ! my favorite is chocolate chip mint ! do you enjoy it ?	yes it is made from dairy products such as milk and cream and is often combined with fruits or other ingredients and flavors . i like ice cream but i like cookies better
+894	when was ice cream first created and by who ?	im not sure about who created it or when bbut the phrase ice cream can actually mean different things in different country . it appears countries have their own word or variation for it
+895	interesting . what are some of the variations ?	we 've got frozen custard , frozen yogurt , sorbet , gelato . these can be different names and or different variations of icecream in different countries including america .
+896	man , now i am hungry ! i really like gelato ! is n't that italian ?	yes it is nice ! also some products that do not meet the criteria to be called ice cream gets the label frozen dairy dessert instead .
+897	i can n't wait until later this year when i get to see the nut cracker ballet . do you enjoy the arts ?	i do ! i took ballet as a child , but have n't really gotten into it as an audience member .
+898	we go three of four times a year . i want my daughter to try a class but she is still a little to small .	the nutcracker is a good story . i actually played " clara " in a musical in 2nd grade .
+899	wow , how cool . you have no interest in dancing as an adult ?	i am a bit of a klutz . i switched over to piano lessons and chorus . my children are exceeding me in music now .
+900	wow , piano impressive . i thought my self while working midnight 's at a fancy hotel . i still prefer ballet over music .	cool . do you have a favorite production ?
+901	not really . i try to appreciate any one i get lucky enough to go to . do you ?	i love productions in general but get frustrated when i can n't follow the storyline . i am always impressed by well done scenery and costumes .
+902	pearl jam is an american rock band formed in seattle , washington , in 1990 .	i think my favorite band is pearl jam they formed in 1990
+903	i have never heard of pearl jam before , who are they ?	well since the beginning it has always been eddie vedder ( lead vocals ) , mike mccready ( lead guitar ) , stone gossard ( rhythm guitar ) and jeff ament ( bass ) .
+904	why are they your favorite band ? what songs are they most famous for ?	they have way to many to choose from . in 91 ' they burst into the spotlight with the album ten ! it was their debut album .
+905	what songs on that album was popular to make them your favorite band ?	well they were one of the key bands in the grunge movement . so i think the best song on ten in my opinion is even flow
+906	interesting and how many records have they sold to date ?	last time i checked it was nearly 32million records in the united states and an estimated 60million worldwide
+907	a desert is a barren area of landscape where little precipitation occurs and consequently living conditions are hostile for plant and animal life .	i love spending time in the desert ! even though it 's a hostile environment for plants and animals , i enjoy it !
+908	i do n't like the heat .	then you might want to check out cold deserts ! they exist in polar regions of our planet .
+909	what are some of the popular cold desert destinations ?	there are cold deserts in india adjacent to the himalaya mountains ! it 's supposed to be beautiful !
+910	that sounds really neat . i will look into it .	most people think of deserts as hot and dry , but deserts can be classified by other things such as location , amount of precipitation and temperature . maybe the cold deserts exist because of their geographical location .
+911	i 've been looking into becoming a special education teacher . i 'm doing research on what i need to get started .	good for you ! those students need a much different approach to learning .
+912	what types of disabilities do students have who receive care from a special education teacher ?	you 'd probably be working with a lot of kids who have certain behavioral disorders , like adhd or add , and maybe even some developmental disabilities , like autism .
+913	it sounds like a rewarding career ! is there a specific degree i would need to become a special education teacher ?	i 'm not actually sure , but i would think so ! there are a lot of different teaching procedures and materials for special needs kids .
+914	i would imagine with the rates of autism ever increasing , special education teachers are in demand . do you think that 's true ? what else should i know about the profession ?	definitely ! there is always a need for special education teachers . there are other kinds of disabilities you may be working with , including kids with physical disabilities and certain learning disabilities , like dyslexia .
+915	i can n't wait to get started helping kids ! do you think there 's more of a need in elementary schools , middle or high schools ?	i 'd say there 's a need in every division ! just remember to be flexible , because every kid will be different . it 's important to remember that every kid will have different needs .
+916	finance is a field that deals with the study of investments .	i have been meeting with a finance advisory to help me learn about investments .
+917	sounds interesting , investing goes a long way of you know what your doing .	yes i know it can also be a risk at times depending on the price but thats why i want to learn to do it the right way .
+918	learning the proper ways to invest can lead to good returns . but sometimes you must take risks .	you 're right it is about taking a risk i 'm thinking about investing in 2 out of the three categories which is public finance and personal finance .
+919	its good to start out slow when investing to test the water so to speak before making the bigger investments .	that 's what my husband said as well he did finance for paying a debt obligations though and after doing that he got a small stock open to test it out i think i will start off investing about 500 dollars minimum .
+920	that sounds like a great plan , his experience with financing int he past will be beneficial to investing .	yes it was but he not as dedicated as me now he been into his credit rating and paying interest payments so he still kind of staying on track with finance lol .
+921	baseball is a bat and ball game played between two teams of nine players each who take turns batting and fielding .	baseball is a bat and ball game played between two teams .
+922	absolutely , it 's really popular in america .	it has two team with nine players each .
+923	very true , i usually take the position of outfield , i am a better catcher than anything else . the sport makes millions from the stadiums .	yes ! there are even multi purpose stadiums designed for different types of events !
+924	it 's crazy that you can actually enlist in the military at a mlb game , how rediculous .	wow ! that is interesting ! mvp baseball was a baseball game series with 5 games produced !
+925	the plant probably originated in persia and was originally cultivated for its leaves and seeds .	did id you know that carrots probably originated in persia ?
+926	i did not , i wonder what makes a vegetable originate from somewhere , why did it not grow everywhere at the same time ?	i do not know however i know a lots of them are native to europe and southwestern asia . i am curious as to why they are cultivated .
+927	me too , i wish i understood that , i suppose it has to be the climate but who knows	i suppose . i think it may have to deal with globalism and adoption of mercantislism as well as needing to trade .
+928	i am not familiar with mercantilism , what does that entail ?	mercantilism is essential economic policies designed to maximize the trade of a nation and its supply of wealth .
+929	oh okay , that makes sense , i can see how that would impact the spread of a vegetable !	yes . it also could be said to be a small factor in trade and economic histories of counties like the united kingdom in that era .
+930	i recently discovered a new love for indian food	i do n't think i 've ever had indian food . can you recommend a good dish ?
+931	:) that is what i like to know since i just discovered it .	i know that curry is a popular spice used in indian cuisine ! some curries are spiced with leaves from the curry tree !
+932	what i do not understand , is curry a spice or a dish ? or both ?	i thought it was just a spice but apparently curry is a catch all term that refers to a number of indian dishes . i wonder if it 's spicy ?
+933	it seems some dishes lack meat , is that a traditional way they prepare dishes	yes , a lot of indian cuisine includes rice and vegetables . indian food is ever evolving because of the nation 's cultural interactions with other societies .
+934	spaghetti with meatballs ( or spaghetti and meatballs ) is an american dish consisting of spaghetti , tomato sauce and meatballs .	i love spaghetti and meatballs , what about you ? the tomato sauce and the meatballs are great
+935	that is a favorite meal around here ! we like to add some vegetables in as well like peppers and mushrooms	there are tons of ways to make it , there are so many traditions of the dish , abruzzo , sicily , and other places in italy
+936	i wonder if anyone knows the original recipe to the tomato sauce , if it has changed throughout the years	tomato sauce originated in italy , but it has changed a bunch just with variations
+937	do italians use hamburger meat for their meat balls or like sausage	my family is very italian and i would say it is about even , but usually we eat sauasage as its own dish , although i am not a ahuge fan of it most of the time
+938	thats cool . we usually dont eat meatballs in ours just hamburger meat ground up , but personally i prefer the meatballs lol	italians actually mock that type of meal because they serve meatballs with egg based baked pasta , which is not how we do it , weird how pretentious some people are
+939	he is known for his work in television as a cast member on " saturday night live " and as the host of late night talk show " the tonight show starring jimmy fallon " and before that " late night with jimmy fallon " .	i love to watch saturday night live and think jimmy fallon is hilarious .
+940	i love that show too .	i also like the tonight show starring jimmy fallon . guess i just like jimmy fallon , lol .
+941	jimmy fallon is really funny .	i just found out he was on snl for six years , before moving on to star in movies . he was in taxi and fever pitch .
+942	how did he get into the industry ?	hosting snl 's weekend update made him a celebrity and i guess that 's how he got into movies .
+943	what else has he accomplished in his career ?	as well as his television work he has two comedy albums and five books .
+944	in some contexts it may be considered a leisure activity as well as an economic one .	i like to shop and look for good deals . in some contexts it can be considered relaxing and a leisure activity as well as an economic one .
+945	i do know that there are a lot of sites for deals such as ebates and retailmenow	yeah , now days its more geared towards online shopiping . , where you can shop worldwide and have it shipped anywhere .
+946	yes . online shopping has become a major industry . it is hard to even remember a time before amazon or ebay .	it 's called b2c , business to customer and it makes it easy to quickly select from a retailers website and have it delivered
+947	do you know when business to customer online shopping first began ?	not sure . i guess when the internet started , eighties
+948	i love watching basketball , what about you ?	yes me too . it was actually invented back in 1891 would you believe by a dr james naismith .
+949	wow he is a great man .	indeed . he wrote the first baskeball rule book and founded the university of kansas basketball program .
+950	he did ? what are his most achievement	he was a physican , chaplain , coach and innovator and of course invented basketball . he was a busy man !
+951	yes his indeed a busy man . who is your favorite basketball player	i just love to play basketball three on three or two on two with my mates . my fav player is jayson tatum boston celtics . what about you ?
+952	i too	oh brilliant . i love to watch them . i tried explaining basketball to my gran the other week , explaining the objective is to shoot a ball through a hoop which is mounted high at each end of the court . i was hoping she would watch the game with me but my explanation didnt sell it to her !
+953	nachos are a mexican dish from northern mexico .	nachos are one of the best easy , greasy foods to come from mexico
+954	and i love them so much lol . colby covington from the ufc kept calling his opponent ralphie dos nachos and it made me want nachos .	yea they are really messy but so simple , just melted cheese and tortilla chips
+955	i feel like most mexican dishes consists of about 5 ingredients and they are so delicious .	yep , besides tortilla or cheese it was usually just meats or veggies in some different form
+956	every time i go to my favorite mexican restaurant i get the same thing . four enchiladas !	which is again just corn tortilla with meats and cheese and pepper sauce
+957	a novel is any relatively long work of narrative fiction , normally in prose , and typically published as a book .	i love to read novels . novels are quite long .
+958	i love to read novels as well . what kind are your favorite ? mine is historical novels .	mine too . i also like romantic fiction but i prefer historical fiction .
+959	romantic fiction can be ok , if it 's not too cheesy . i like good , meaty novels where i can learn something .	have you ever heard of the historical novel society ? they promote historical fiction .
+960	i have not heard of them ! that sounds like a great society , though !	hns considers historical fiction as any novel written fifty years or more after the events that it is depicting .
+961	no passages used	my father used to smoke a lot .
+962	oh really ? did he smoke cigars ?	not just cigarretes . but i enjoy the smell of cigar smoke , in all their variety of sizes and shapes .
+963	cigar smoke does smell very good . have you ever smoked a swisher ?	no i have n't , have you ? how is it like ? of course that smoking in general has negative health effects .
+964	yeah minus the negative affects of cigars , i do enjoy them after a wedding or a big event it really relaxes you	i know cigars are made primarely in central america and the iisland in the caribbean .
+965	very interesting i had no idea they were made in central america .	and in some cultures smoking is part of rituals to , with the idea of inducing trance like states
+966	dust are fine particles of matter .	dust is the bane of my existence . the little fine particles of matter making me feel awful .
+967	ugh me too ! it makes me sneeze sooooo much	the worst part is the thought of dust mites and they are creepily climbing everywhere .
+968	ewww that is so gross . what else can you tell me about dust ?	well i have asthma and unfortunately positive tests for dust mite allergies are extremely common .
+969	oh really . so people with asthma are more likely to be allergic to dust ?	yeah mainly because of the dustmites , luckily the dust becomes heavy and settles and you can clean them up frequently . but you better wear a mask .
+970	that 's for sure . i hate it when it gets on the ceiling fan and i have to clean that	absolutely also dust mites are a nesting species and prefer the dark and warm climates so making sure you have a lot of natural light can help prevent it and find it .
+971	i wonder how truck drivers cope	well , i would guess that truck stops help quite a bit . no better place to rest , find a good meal , even shower nowdays !
+972	seriously , they are trying . have you driven one before	i have not , i had a close neighbor who drove one for many years . he liked being gone all the time though , he might be a rare case . have you driven one ?
+973	not at all , so scared	most drivers are responsible for their own safety as far as the truck is concerned . they are made to inspect for any issues related to safe operation . but you may be referring to being around so many other drivers ? !
+974	i really love the way they drive it , it 's so big	you 're right , some have a vehicle mass greater than 12 tonnes
+975	wow , that 's so big . maybe i will get one in future	you 're interested in becoming a trucker ? it 's a decent living , but like you said before exhausting and scary depending on who you ask !
+976	as a result , swimming is low impact compared to land activities such as running .	i really love swimming , it 's such a great low impact activity that does n't stress your joints very much .
+977	i love swimming too ! do you prefer going to a pool or a natural body of water ?	i prefer the pools , we have an olympic size swimming pool near us , which is the largest size they get . it 's great for building endurance .
+978	oh that sounds great . do you know any exercises for helping build endurance ?	swimming and running are probably the most common , cycling is good too . i like to mix in strength training to build up my skeletal muscles , build strength , and increase my anaerobic endurance as well .
+979	thanks for the info ! i 'm really trying to work out more , but i most days i do n't have the motivation .	it can be tough sometimes , i just think of all the benefits strength training provides like increased overall health and well being and increased metabolism , for instance , when i need some motivation .
+980	do you know a lot about hockey ?	i really do n't . i know the basics . the winner is the team that scores more goals by shooting the puck into the other team 's net .
+981	in high school many moons ago ... our ice hockey team was the best in the state .	that 's great ! did you or any of your teammates go on to paly for the nhl or any other league ?
+982	no i doubt it . i do know a few that got full scholarships to college though .	anytime a college can recruit athletes from high schools to add good athletes to the roster is not only great for the college and team , but also helps the students a lot too .
+983	true . i give them a lot of credit to play ice hockey . i cannot even ice skate !	haha ! i can n't either . anytime i have tried i have been afraid that the blades on the boots would stab me when i fell .
+984	lol i never thought of that . great now i will think of that if i ever try again .	oh my ! i 'm sorry ! do n't let my crazy thoughts scare you away from trying again . i 'm just a worrier like that .
+985	a night owl , evening person or simply owl , is a person who tends to stay up until late at night .	i only just got up i 'm a night owl and i tend to stay up until late at night !
+986	i used to be a night owl too , but not anymore . at what time do you go to bed ?	i usually go to bed at around three in the morning right before i go to bed is when i feel the most energetic !
+987	wow , that is indeed late , good think you do n't have to wake up early .	i know ! i could never be an early bird that goes to sleep early and then wakes early ! that 's not for me !
+988	i know at one time it was awful for me to have to wake up at seven to go to school and later to work , but i now do it willingly to go for my run .	it 's funny that in scandinavia early birds and night owls are called a people and b people lol
+989	that is funny indeed . of course there are still times when i what to sleep late but for me now late is 9am .	maybe i have a delayed sleep phase disorder that 's one explanation for being a night owl
+990	vegetarianism may be adopted for various reasons .	vegetarianism can be picked for many reasons
+991	so , what is the difference between vegetarianism and veganism ?	vaganism also rejects meat and that rejects the commodity status of animals , meaning animal products
+992	ahh , i see . what are some of the reasons one would pick vegetarianism then ?	well religion , vegetarianism is strongly linked with a number of religions that originated in ancient india
+993	i suppose that means hinduism and the like ? what other reasons would there be to pick vegetarianism ?	well in jainism , being a vegetarism is mandatory
+994	hello , how are you ? have you heard about the vancouver grizzlies ?	hello , i think they were a professional basketball team from canada !
+995	yes that 's right . they play in the nba . do you like basketball ?	i do ! they were also part of the midwest division of the western conference .
+996	do you have any idea how they have performed in the last couple of years ? they face some tough competition .	i 'm not sure ! they were established in 1995 as part of the nba 's expansion into canada .
+997	i see . where are they based ? do they play out of canada ?	i do n't think they still play , but i 'm not positive . they were based in vancouver , british columbia .
+998	thats a pity . did they do ok while they did play ?	they won 101 games , but lost 359 . so they did n't qualify for the nba playoffs .
+999	man ive heard a lot about this adam levine guy , do you know who he is ?	i have heard of the american singer and songwriter . he is also a record producer .
