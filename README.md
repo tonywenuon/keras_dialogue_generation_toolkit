@@ -33,3 +33,17 @@ The core model files are in this folder. You can get the code of each model.
 2. Memory Neural Network: Thank these authors. We inspire from two repos, [memn2n tensorflow version](https://github.com/domluna/memn2n) and [memn2n keras version](https://github.com/IliaGavrilov/ChatBotEndToEndMemoryNeuralNet)
 3. Transformer and Universal Transformer: Thanks kpot for his repo: keras-transformer. I changed his original code to fit with my experiments. He also implemented BERT on top of this repo. Even this repo didn't implement entire Transformer, it still easy to add Decoder part in this framework. The original repo can be found here: [keras-transformer](https://github.com/kpot/keras-transformer).
 
+## Usage:
+Go into the example folder and run the 'train_\*\*\*.py' file. An example is given below:
+
+```
+python train_transformer.py --data_set=wizard \
+       --exp_name=transformer \
+       --batch_size=40 \
+       --src_seq_length=30 \
+       --tar_seq_length=30 \
+       --early_stop_patience=2 \
+       --lr_decay_patience=1 \
+       --lr=0.001
+```
+As for the hyper-parameters, they can be found in `run_script\args_parser.py`.
