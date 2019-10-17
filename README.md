@@ -10,7 +10,7 @@ This is a Keras framework for dialogue generation. It includes some basic genera
 * Multi-Task ([A knowledge-grounded neural conversation model](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057))
 * Transformer ([Attention is all you need](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf))
 * Universal Transformer ([Universal transformers](https://arxiv.org/pdf/1807.03819.pdf))
-* Transformer with Expanded Decoder ([Enhancing Conversational Dialogue Models with Grounded Knowledge]())
+* Transformer_ED: Transformer with Expanded Decoder ([Enhancing Conversational Dialogue Models with Grounded Knowledge]())
 
 ## Structure
 1. **commonly_used_code:** 
