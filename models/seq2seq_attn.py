@@ -77,7 +77,7 @@ class Decoder(tf.keras.Model):
         x = tf.concat([tf.expand_dims(context_vector, 1), x], axis=-1)
 
         # output shape == (batch_size, 1, hidden_dim)
-        output, state = self.gru(x)
+        output, state = self.gru(x, initial_state=hidden_state)
         # shape == (batch * 1, hidden_dim)
         output = tf.reshape(output, (-1, output.shape[2]))
 
