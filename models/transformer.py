@@ -6,7 +6,6 @@ from keras import backend as K
 from keras.utils import get_custom_objects
 from keras.layers import Input, Softmax, Embedding, Add, Lambda, Dense, RepeatVector, Layer
 
-from keras_pos_embd import TrigPosEmbedding
 from models.keras_transformer.extras import ReusableEmbedding, TiedOutputEmbedding
 from models.keras_transformer.masks import PaddingMaskLayer, SequenceMaskLayer
 from models.keras_transformer.position import TransformerCoordinateEmbedding

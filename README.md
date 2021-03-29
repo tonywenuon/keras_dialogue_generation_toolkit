@@ -37,7 +37,7 @@ The core model files are in this folder. You can get the code of each model.
 Go into the example folder and run the 'train_\*\*\*.py' file. An example is given below:
 
 ```
-python train_transformer.py --data_set=wizard \
+python train_transformer.py --data_set='example_data' \
        --exp_name=transformer \
        --batch_size=40 \
        --src_seq_length=30 \
