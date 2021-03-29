@@ -2,6 +2,7 @@
 
 ## Introduction
 
+python version requriement: >=3.6
 This is a Keras framework for dialogue generation. It includes some basic generative models:
 
 * Seq2Seq with Attention Mechanism ([Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473.pdf))
